@@ -1,0 +1,20 @@
+.contact-form {
+  padding: 60px;
+  margin-top: 60px;
+}
+
+.contact-form h2 {
+  margin-bottom: 30px;
+}
+
+#products .item .thumb .icon-tuto {
+  width: 30px;
+  height: 30px;
+}
+
+.grid-tuto {
+  border: 1px solid #0000000a;
+  padding: 5px;
+  margin: 5px;
+  max-width: 280px !important;
+}
