@@ -67,3 +67,21 @@
   bottom: 150px;
   left: 40px;
 }
+
+.detail-tuto {
+  height: 1000px;
+  padding: 30px;
+  margin-top: 150px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.detail-tuto h1 {
+  margin-bottom: 30px;
+}
+
+.detail-tuto h4 {
+  margin: 30px;
+}
