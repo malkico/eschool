@@ -59,7 +59,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-12">
             <nav class="main-nav">
               <!-- ***** Logo Start ***** -->
-              <a href="index.html" class="logo">
+              <a href="index.php" class="logo">
                 <img
                   width="150px"
                   height="150px"
@@ -70,22 +70,22 @@ https://templatemo.com/tm-571-hexashop
               <!-- ***** Menu Start ***** -->
               <ul class="nav">
                 <li class="scroll-to-section">
-                  <a href="AProposDeNous.html">à propos de nous</a>
+                  <a href="AProposDeNous.php">à propos de nous</a>
                 </li>
 
                 <li class="submenu">
                   <a href="javascript:;">Formations</a>
                   <ul>
-                    <li><a href="Backend.html">backend</a></li>
-                    <li><a href="Frontend.html">Frontend</a></li>
-                    <li><a href="CRM.html">CRM</a></li>
+                    <li><a href="Backend.php">backend</a></li>
+                    <li><a href="Frontend.php">Frontend</a></li>
+                    <li><a href="CRM.php">CRM</a></li>
                   </ul>
                 </li>
                 <li class="scroll-to-section">
-                  <a href="Tutoriel.html">Tutoriels</a>
+                  <a href="Tutoriel.php">Tutoriels</a>
                 </li>
                 <li class="scroll-to-section">
-                  <a href="Contact.html">Contact</a>
+                  <a href="Contact.php">Contact</a>
                 </li>
               </ul>
               <a class="menu-trigger">
@@ -106,7 +106,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span>HTML, CSS, Javascript, Java, C++, Wordpress...</span>
+              <span.php, CSS, Javascript, Java, C++, Wordpress...</span>
             </div>
           </div>
         </div>
@@ -121,18 +121,18 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-8">
             <div class="left-images">
               <img src="assets/images/htmlcss.png" alt="" />
-              <img src="assets/images/htmlcss2.jfif" alt="" />
+              <img src="assets/images.phpcss2.jfif" alt="" />
             </div>
           </div>
           <div class="col-lg-4">
             <div class="right-content">
-              <h1>HTML CSS</h1>
+              <h1.php CSS</h1>
               <span class="price">€ 280.00</span>
 
               <p></p>
-              ous souhaitez créer vos propres sites web ? Vous êtes au bon endroit ! Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages de programmation à la base de tous les sites web.
+              ous souhaitez créer vos propres sites web ? Vous êtes au bon endroit ! Dans ce cours, vous apprendrez comment utiliser.php5 et CSS3, les deux langages de programmation à la base de tous les sites web.
 
-              Vous pensez peut-être que vous n'êtes pas fait pour apprendre un langage informatique, mais ne vous inquiétez pas : HTML et CSS sont des langages simples, que nous allons découvrir pas à pas, au cours de nombreux exercices. Vous serez bientôt capable d'ajouter du texte à votre site, de construire un menu de navigation, d'insérer des images... et bien plus encore !
+              Vous pensez peut-être que vous n'êtes pas fait pour apprendre un langage informatique, mais ne vous inquiétez pas :.php et CSS sont des langages simples, que nous allons découvrir pas à pas, au cours de nombreux exercices. Vous serez bientôt capable d'ajouter du texte à votre site, de construire un menu de navigation, d'insérer des images... et bien plus encore !
               </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
@@ -141,9 +141,9 @@ https://templatemo.com/tm-571-hexashop
 
 À la fin de ce cours, vous serez capable de :
 
-<li>utiliser du code HTML ;</li>
+<li>utiliser du code.php ;</li>
 
-<li>structurer une page web en HTML ;
+<li>structurer une page web en.php ;
 </li>
 <li>utiliser du code CSS ;</li>
 
@@ -151,7 +151,7 @@ https://templatemo.com/tm-571-hexashop
 
 <li>organiser les éléments d’une page web grâce au CSS ;</li>
 
-<li>modifier l'agencement d'une page HTML avec CSS ;</li>
+<li>modifier l'agencement d'une page.php avec CSS ;</li>
 
 <li>intégrer des formules dans une page web ;</li>
 
@@ -198,16 +198,16 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-3">
             <h4>Services</h4>
             <ul>
-              <li><a href="Frontend.html">Formations</a></li>
-              <li><a href="Tutoriel.html">Tutoriel</a></li>
+              <li><a href="Frontend.php">Formations</a></li>
+              <li><a href="Tutoriel.php">Tutoriel</a></li>
             </ul>
           </div>
           <div class="col-lg-3">
             <h4>Liens interessants</h4>
             <ul>
-              <li><a href="Index.html">Acueill</a></li>
-              <li><a href="AProposDeNous.html">à propos de nous</a></li>
-              <li><a href="Contact.html">Contact</a></li>
+              <li><a href="Index.php">Acueill</a></li>
+              <li><a href="AProposDeNous.php">à propos de nous</a></li>
+              <li><a href="Contact.php">Contact</a></li>
             </ul>
           </div>
           <div class="col-lg-3">

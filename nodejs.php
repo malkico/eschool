@@ -59,7 +59,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-12">
             <nav class="main-nav">
               <!-- ***** Logo Start ***** -->
-              <a href="index.html" class="logo">
+              <a href="index.php" class="logo">
                 <img
                   width="150px"
                   height="150px"
@@ -70,22 +70,22 @@ https://templatemo.com/tm-571-hexashop
               <!-- ***** Menu Start ***** -->
               <ul class="nav">
                 <li class="scroll-to-section">
-                  <a href="AProposDeNous.html">à propos de nous</a>
+                  <a href="AProposDeNous.php">à propos de nous</a>
                 </li>
 
                 <li class="submenu">
                   <a href="javascript:;">Formations</a>
                   <ul>
-                    <li><a href="Backend.html">backend</a></li>
-                    <li><a href="Frontend.html">Frontend</a></li>
-                    <li><a href="CRM.html">CRM</a></li>
+                    <li><a href="Backend.php">backend</a></li>
+                    <li><a href="Frontend.php">Frontend</a></li>
+                    <li><a href="CRM.php">CRM</a></li>
                   </ul>
                 </li>
                 <li class="scroll-to-section">
-                  <a href="Tutoriel.html">Tutoriels</a>
+                  <a href="Tutoriel.php">Tutoriels</a>
                 </li>
                 <li class="scroll-to-section">
-                  <a href="Contact.html">Contact</a>
+                  <a href="Contact.php">Contact</a>
                 </li>
               </ul>
               <a class="menu-trigger">
@@ -106,7 +106,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span>HTML, CSS, Javascript, Java, C++, Wordpress...</span>
+              <span.php, CSS, Javascript, Java, C++, Wordpress...</span>
             </div>
           </div>
         </div>
@@ -198,16 +198,16 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-3">
             <h4>Services</h4>
             <ul>
-              <li><a href="Frontend.html">Formations</a></li>
-              <li><a href="Tutoriel.html">Tutoriel</a></li>
+              <li><a href="Frontend.php">Formations</a></li>
+              <li><a href="Tutoriel.php">Tutoriel</a></li>
             </ul>
           </div>
           <div class="col-lg-3">
             <h4>Liens interessants</h4>
             <ul>
-              <li><a href="Index.html">Acueill</a></li>
-              <li><a href="AProposDeNous.html">à propos de nous</a></li>
-              <li><a href="Contact.html">Contact</a></li>
+              <li><a href="Index.php">Acueill</a></li>
+              <li><a href="AProposDeNous.php">à propos de nous</a></li>
+              <li><a href="Contact.php">Contact</a></li>
             </ul>
           </div>
           <div class="col-lg-3">

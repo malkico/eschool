@@ -1,8 +1,8 @@
 <?php
 require $_SERVER['DOCUMENT_ROOT'].'/seolyzer.php';
 ?>
-<!DOCTYPE html>
-<html>
+<!DOCTYPE.php>
+.php>
   <head>
         <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -24,7 +24,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer.php';
 
   <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2QFDZ4"
+<noscript><iframe src="https://www.googletagmanager.com/ns.php?id=GTM-P2QFDZ4"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
     <header class="header-area header-sticky">
@@ -33,7 +33,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer.php';
           <div class="col-12">
             <nav class="main-nav">
               <!-- ***** Logo Start ***** -->
-              <a href="index.html" class="logo">
+              <a href="index.php" class="logo">
                 <img
                   width="150px"
                   height="150px"
@@ -44,22 +44,22 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer.php';
               <!-- ***** Menu Start ***** -->
               <ul class="nav">
                 <li class="scroll-to-section">
-                  <a href="AProposDeNous.html">à propos de nous</a>
+                  <a href="AProposDeNous.php">à propos de nous</a>
                 </li>
 
                 <li class="submenu">
                   <a href="javascript:;">Formations</a>
                   <ul>
-                    <li><a href="Backend.html">backend</a></li>
-                    <li><a href="Frontend.html">Frontend</a></li>
-                    <li><a href="CRM.html">CRM</a></li>
+                    <li><a href="Backend.php">backend</a></li>
+                    <li><a href="Frontend.php">Frontend</a></li>
+                    <li><a href="CRM.php">CRM</a></li>
                   </ul>
                 </li>
                 <li class="scroll-to-section">
-                  <a href="Tutoriel.html">Tutoriels</a>
+                  <a href="Tutoriel.php">Tutoriels</a>
                 </li>
                 <li class="scroll-to-section">
-                  <a href="Contact.html">Contact</a>
+                  <a href="Contact.php">Contact</a>
                 </li>
               </ul>
               <a class="menu-trigger">
@@ -128,16 +128,16 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer.php';
           <div class="col-lg-3">
             <h4>Services</h4>
             <ul>
-              <li><a href="Frontend.html">Formations</a></li>
-              <li><a href="Tutoriel.html">Tutoriel</a></li>
+              <li><a href="Frontend.php">Formations</a></li>
+              <li><a href="Tutoriel.php">Tutoriel</a></li>
             </ul>
           </div>
           <div class="col-lg-3">
             <h4>Liens interessants</h4>
             <ul>
-              <li><a href="Index.html">Acueill</a></li>
-              <li><a href="AProposDeNous.html">à propos de nous</a></li>
-              <li><a href="Contact.html">Contact</a></li>
+              <li><a href="Index.php">Acueill</a></li>
+              <li><a href="AProposDeNous.php">à propos de nous</a></li>
+              <li><a href="Contact.php">Contact</a></li>
             </ul>
           </div>
           <div class="col-lg-3">
