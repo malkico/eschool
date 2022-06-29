@@ -51,6 +51,10 @@ https://templatemo.com/tm-571-hexashop
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2QFDZ4"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
+
+  <?php
+    require_once($_SERVER['DOCUMENT_ROOT'].'/eschool/include.php');
+  ?>
     <header class="header-area header-sticky">
       <div class="container">
         <div class="row">
