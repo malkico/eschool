@@ -271,5 +271,9 @@ https://templatemo.com/tm-571-hexashop
         });
       });
     </script>
+      <?php
+    require_once($_SERVER['DOCUMENT_ROOT'].'/eschool/include.php');
+  ?>
+
   </body>
 </html>

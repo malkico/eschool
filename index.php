@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+<?php
+/* © 2022 Seolyzer.io */
+require_once($_SERVER['DOCUMENT_ROOT'].'/eschool/seolyzer-8c7ad8890925ad7929f993be08ae784d.php');
+?>
+  <!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Google Tag Manager -->
@@ -91,7 +95,7 @@ https://templatemo.com/tm-571-hexashop
               <!-- ***** Menu Start ***** -->
               <ul class="nav">
                 <li class="scroll-to-section">
-                  <a href="AProposDeNous.html">à propos de nous</a>
+                  <a href="AProposDeNous.php">à propos de nous</a>
                 </li>
 
                 <li class="submenu">
@@ -354,5 +358,7 @@ https://templatemo.com/tm-571-hexashop
         });
       });
     </script>
+
+
   </body>
 </html>
