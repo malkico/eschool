@@ -1,0 +1,10 @@
+{
+    "name": "souka/www",
+    "authors": [
+        {
+            "name": "sk",
+            "email": "dev.bairouk@gmail.com"
+        }
+    ],
+    "require": {}
+}
