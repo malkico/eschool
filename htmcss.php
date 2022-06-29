@@ -1,6 +1,5 @@
 <?php
-/* © 2022 Seolyzer.io */
-require_once($_SERVER['DOCUMENT_ROOT'].'/seolyzer-72bbd32ca2d2262cee41ba2ca59ff563.php');
+require $_SERVER['DOCUMENT_ROOT'].'/eschool/seolyzer.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
