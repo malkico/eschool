@@ -189,7 +189,7 @@ Après ce cours, vous saurez créer efficacement et rapidement des sites WordPre
           <div class="col-lg-3">
             <h4>Liens interessants</h4>
             <ul>
-              <li><a href="Index.php">Acueill</a></li>
+              <li><a href="index.php">Acueill</a></li>
               <li><a href="AProposDeNous.php">à propos de nous</a></li>
               <li><a href="Contact.php">Contact</a></li>
             </ul>
