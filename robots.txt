@@ -1,7 +1,11 @@
 User-agent: *
-Disallow: /nogooglebot/
-
-User-agent: *
-Allow: /
+Allow: 
+Disallow: /google56139e66586a09df.html
+Disallow: /seolyzer-e7bdf29c38c13de794e8d1df64aa9105.php
+Disallow: /.gitignore
+Disallow: /composer.json
+Disallow: /assets
+Disallow: /include.php
+Disallow: /sitemap.xml
 
 Sitemap: https://dry-crag-60656.herokuapp.com/sitemap.xml
