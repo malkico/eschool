@@ -7,5 +7,7 @@ Disallow: /composer.json
 Disallow: /assets
 Disallow: /include.php
 Disallow: /sitemap.xml
+Allow: /assets/images
+
 
 Sitemap: https://dry-crag-60656.herokuapp.com/sitemap.xml
