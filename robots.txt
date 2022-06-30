@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://dry-crag-60656.herokuapp.com/sitemap.xml
