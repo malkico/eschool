@@ -20,6 +20,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer.php';
     />
     <link rel="stylesheet" href="assets/css/templatemo-hexashop.css" />
     <link rel="stylesheet" href="assets/css/custom-style.css" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z5WSPT3J4C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z5WSPT3J4C');
+</script>
   </head>
 
   <body>
