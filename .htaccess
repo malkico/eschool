@@ -1,5 +1,0 @@
-Options +FollowSymLinks
-RewriteCond %{THE_REQUEST} ^.*/index.php
-RewriteRule ^(.*)index.php$ https://dry-crag-60656.herokuapp.com/$1 [R=301,L]git Options +FollowSymLinks
-RewriteCond %{THE_REQUEST} ^.*/index.php
-RewriteRule ^(.*)index.php$ https://dry-crag-60656.herokuapp.com/$1 [R=301,L]git 
