@@ -1,5 +1,5 @@
 <?php
-require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-98ac556e976750018e66200c4f529d23.php';
+require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.php.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
