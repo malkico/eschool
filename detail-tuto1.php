@@ -17,13 +17,15 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
     <!-- End Google Tag Manager -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
+    <meta name="description" content="framework javascript solid.js est un
+excellent choix, découvrir solide js une librairie qui va vous permettre de créer
+des interfaces web réactive pour le web" />
     <meta name="author" content="" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
         rel="stylesheet" />
     <link rel="stylesheet" href="assets/css/custom-style.css" />
 
-    <title>Hexashop - Product Listing Page</title>
+    <title>Découverte de SolidJS</title>
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
@@ -131,7 +133,7 @@ pas quelque chose que vous allez immédiatement
 utiliser dans votre travail de jour cette leçon est pour
 alors allons-y</p>
            <h2>comment mettre en place Solid JS</h2>
-            <p> bienvenue dans ce nouveaux article aujourd'hui je vous propose de découvrir ensemble solide js quitte une librairie qui va vous permettre de créer
+            <p> bienvenue dans ce nouveaux article aujourd'hui je vous propose de découvrir ensemble solide js une librairie qui va vous permettre de créer
 des interfaces web réactive pour le web et qui se veut finalement être une alternative à des choses comme react
 welt ouf js alors pour l'utiliser c'est très simple vous avez une petite commande qui vous permet d'initialiser
 un template cette commande va simplement clown et le template donc je vais commencer à me rentrer dedans et installer les différentes dépendances si

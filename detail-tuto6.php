@@ -17,13 +17,13 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
     <!-- End Google Tag Manager -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
+    <meta name="description" content="MySql Une base de données relationnelle (ou base de données relationnelle) est un type de base de données qui utilise des relations entre les différentes tableaux (ou tables) qui la composent" />
     <meta name="author" content="" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
         rel="stylesheet" />
     <link rel="stylesheet" href="assets/css/custom-style.css" />
 
-    <title>Hexashop - Product Listing Page</title>
+    <title>Découvrir MySql</title>
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
@@ -117,33 +117,18 @@ https://templatemo.com/tm-571-hexashop
     <!-- ***** Products Area Starts ***** -->
     <section class="section" id="products">
         <div class="detail-tuto">
-            <h1>Découverte de Caddy Server</h1>
-            <p>Si on regarde les premiers exemples de la documentation on peut penser que SolidJS n'est qu'un simple
-                clone de React (un peu comme Preact).</p>
-            <h4>Avantage par rapport à Nginx / Apache</h4>
-            <p>Cela fait un moment que j'utilise nginx pour mettre en place mes serveurs web mais Caddy vient apporter des points intéréssants sur certains aspects problématiques.
+            <h1>Découverte de MySql</h1>
+            <p>MySQL est un système de gestion de base de données relationnelle qui utilise le langage de requête SQL. Il est développé, utilisé, et hébergé par Oracle. MySQL est un logiciel gratuit, il est également très populaire et utilisé dans de nombreux projets, ce qui est vraiment bon pour les développeurs car il permet aux utilisateurs d'avoir des informations pertinentes sur le produit.
 
-                Nginx et Apache dispose d'une configuration qui devient rapidement longue et verbeuse pour des cas simples (reverse proxy, https...). La même configuration ne prend que quelques lignes sur Caddy
-                La génération des certificats SSL via let's encrypt est un peu compliqué car il faut configurer le serveur d'une certaine manière pour accepter la vérification du certificat la première fois. Caddy dispose lui d'un système automatisé qui ne nécessite aucune intervention pour la génération des certificats.
-                L'ordre de priorité des règles peut parfois être complexe à appréhender sur nginx, Caddy dispose d'un système de route permettant un meilleur contrôle.
-                Caddy est extensible à l'aide de modules qui peuvent être écrit en golang (un peu plus simple à prendre en main que du C)</p>
+Il permet d'effectuer des requêtes SQL au niveau des bases de données pour y exécuter des opérations telles que l'inscription, la mise à jour ou la suppression de données. Il peut être utilisé avec un serveur web comme Apache ou un serveur de messagerie comme sendmail.
 
-                Si le composant utilise des éléments réactifs les modifications seront faites directement sur le DOM
-                sans
-                étape intermédiaire ce qui permet de bien meilleur performances. L'approche est ici similaire à celle
-                qui
-                est utilisé dans Svelte.</p>
-            <h4>Installation de Caddy</h4>
-            <p>Caddy peut être utilisé sous forme de simple éxécutable (pratique pour une configuration docker ou dans le cas d'un serveur de développement) mais aussi sous forme de service. Dans le cadre d'Ubuntu l'installation de Caddy se fait de manière traditionnelle en l'ajoutant à la liste des dépôt.
 
-                Une fois installée le service va démarrer automatiquement et répondra sur le port 80 (HTTP) avec la page d'accueil par défaut. Caddy peut ensuite être configuré à l'aide du fichier Caddyfile présent dans le dossier /etc/caddy/
-                
-                Config</p>
-            <h4>Les points négatifsn</h4>
-            <p>Evidemment tout n'est pas parfait et j'ai rencontré quelques problème (peut être par manque de connaissance donc n'hésitez pas à me corriger).
 
-                Le format des logs en JSON est un peu moins lisible que le format d'nginx (peut être une question d'habitude), bien que plus facilement parsable par des outils tiers. Mais un module existe pour contrebalancer ce problème.
-                Il n'y a pas de système anti burst préintégrés (un module tiers existe mais je ne l'ai pas testé).</p>
+peut être utilisé pour gérer les données de différentes bases de données. C'est un logiciel libre, qui se trouve sous la licence GPL. Il est développé par Oracle depuis la fusion de Sun Microsystems. MySQL est connu pour la base de données de type relationnel et son langage SQL.
+
+exécuter et tester des versions de logiciels. Jenkins peut piloter automatiquement la construction des différents dépendances utilisées dans un projet. Jenkins peut donc être considéré comme un robot généraliste qui peut fonctionner sur tout type de projet.
+
+</p>
         </div>
 
     </section>
