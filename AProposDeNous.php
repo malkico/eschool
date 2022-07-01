@@ -16,14 +16,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="" />
+    <meta name="description" content="Apprenez plus sur nos formations qui vous permet d'ameliorer vos compétences en developpement web" />
     <meta name="author" content="" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
     />
 
-    <title>Hexashop - Product Listing Page</title>
+    <title>A propos de Eschool</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -112,17 +112,13 @@ https://templatemo.com/tm-571-hexashop
       <div class="text-about-us">
         <h2 class="">Eschool</h2>
         <p>
-          Donnez à votre équipe un accès illimité à +16 000 des meilleurs cours
-          Eschool. Apprenez et améliorez vos compétences dans les domaines
-          d'informatique', de la technologie, de la conception et bien plus
-          encore.
+        Eschool vous  propose des formation en ligne dans plusieurs languages de programation. Le programme de formation est divisé en plusieurs modules. Chaque module comprend des exercices, des leçons et du matériel pédagogique. Les stagiaires débutants peuvent commencer par les modules de base, tandis que les personnes ayant déjà un niveau intermédiaire pourront étudier plus avancées.
         </p>
       </div>
       <div class="text2-about-us">
         <h2 class="">Transformez votre vie grâce à l'apprentissage</h2>
         <p>
-          Les participants du monde entier se lancent dans de nouvelles
-          carrières, progressent dans leur domaine et enrichissent leur vie.
+        Vous n'êtes pas obligé d'aller à l'université pour améliorer vos compétences en ligne. Cependant, comme la plupart des cours ont lieu dans le monde réel, il est important de savoir où vous allez et avec qui vous travaillez. Il s'agit donc essentiellement d'une question de sécurité.
         </p>
         <button type="button" class="btn btn-dark">Découvrir comment</button>
       </div>
@@ -214,7 +210,7 @@ https://templatemo.com/tm-571-hexashop
 
     <!-- Plugins -->
     <script src="assets/js/owl-carousel.js"></script>
-    <script src="assets/js/accordions.js"></script>
+    <script src="assets/js/accordions.min.js"></script>
     <script src="assets/js/datepicker.js"></script>
     <script src="assets/js/scrollreveal.min.js"></script>
     <script src="assets/js/waypoints.min.js"></script>

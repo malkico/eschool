@@ -75,13 +75,7 @@ https://templatemo.com/tm-571-hexashop
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <!-- ***** Preloader Start ***** -->
-    <div id="preloader">
-      <div class="jumper">
-        <div></div>
-        <div></div>
-        <div></div>
-      </div>
-    </div>
+   
     <!-- ***** Preloader End ***** -->
 
     <!-- ***** Header Area Start ***** -->
@@ -355,7 +349,7 @@ https://templatemo.com/tm-571-hexashop
 
     <!-- Plugins -->
     <script src="assets/js/owl-carousel.js"></script>
-    <script src="assets/js/accordions.js"></script>
+    <script src="assets/js/accordions.min.js"></script>
     <script src="assets/js/datepicker.js"></script>
     <script src="assets/js/scrollreveal.min.js"></script>
     <script src="assets/js/waypoints.min.js"></script>

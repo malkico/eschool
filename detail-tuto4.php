@@ -17,13 +17,13 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
     <!-- End Google Tag Manager -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
+    <meta name="description" content="Iptable est une application logicielle de filtrage des paquets IP utilisée dans les systèmes d'exploitation Unix et Linux" />
     <meta name="author" content="" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
         rel="stylesheet" />
     <link rel="stylesheet" href="assets/css/custom-style.css" />
 
-    <title>Hexashop - Product Listing Page</title>
+    <title>Iptable</title>
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
@@ -117,32 +117,38 @@ https://templatemo.com/tm-571-hexashop
     <!-- ***** Products Area Starts ***** -->
     <section class="section" id="products">
         <div class="detail-tuto">
-            <h1>Découverte de Caddy Server</h1>
-            <p>Si on regarde les premiers exemples de la documentation on peut penser que SolidJS n'est qu'un simple
-                clone de React (un peu comme Preact).</p>
-            <h4>Avantage par rapport à Nginx / Apache</h4>
-            <p>Comme cet article est une introduction simplifiée à JavaScript, nous n'allons pas compliquer les choses à
-                ce stade en entrant dans les détails sur les différences entre le coeur du langage JavaScript et les
-                différents outils cités plus haut. Vous pourrez entrer dans ces détails plus tard grâce à notre centre
-                d'apprentissage JavaScript, et le reste du MDN.</p>
-            <h4>Installation</h4>
-            <p>Caddy peut être utilisé sous forme de simple éxécutable (pratique pour une configuration docker ou dans
-                le cas d'un serveur de développement) mais aussi sous forme de service. Dans le cadre d'Ubuntu
-                l'installation de Caddy se fait de manière traditionnelle en l'ajoutant à la liste des dépôt.
-
-                Une fois installée le service va démarrer automatiquement et répondra sur le port 80 (HTTP) avec la page
-                d'accueil par défaut. Caddy peut ensuite être configuré à l'aide du fichier Caddyfile présent dans le
-                dossier /etc/caddy/
-
-                Config</p>
-            <h4>Les points négatifsn</h4>
-            <p>Evidemment tout n'est pas parfait et j'ai rencontré quelques problème (peut être par manque de
-                connaissance donc n'hésitez pas à me corriger).
-
-                Le format des logs en JSON est un peu moins lisible que le format d'nginx (peut être une question
-                d'habitude), bien que plus facilement parsable par des outils tiers. Mais un module existe pour
-                contrebalancer ce problème.
-                Il n'y a pas de système anti burst préintégrés (un module tiers existe mais je ne l'ai pas testé).</p>
+            <h1>Découverte de Iptables</h1>
+            <h2>c'est Iptables</h2>
+            <p>C'est une application logicielle de filtrage des paquets IP utilisée dans les systèmes d'exploitation Unix et Linux. Elle a été développée par le projet de recherche de l'Internet Linux Netfilter en 1998. Elle est incorporée dans la distribution Debian Linux depuis la version 2.0.30 et les distributions basées sur Debian, comme Ubuntu. Elle est utilisée pour filtrer les paquets IP et TCP/UDP à l'intérieur de cette distribution et peut être utilisée pour filtrer les paquets à l'int</p>
+            <h2>Comment mettre en place</h2>
+            <p>bienvenue dans ce nouveau chapitre on va
+faire un petit point sur la sécurité on
+va parler de la mise en place d' ip
+table donc jusqu'à maintenant notre
+serveur il peut communiquer librement
+avec internet et internet pour
+communiquer librement avec lui le
+problème c'est que ce n'est pas très
+sécurisé si jamais on a mal configuré
+mysql mango débit ou n'importe quel
+autre technologie est qu'elle communique
+trop librement et qu'internet mais
+quelqu'un de mal intentionné va pouvoir
+le repérer et s'y connecter
+donc iptables va nous permettre
+d'installer un pare-feu qui va permettre
+de contrôler les connexions entrantes et
+sortantes avec notre serveur est
+globalement ça va agir comme un videur
+qui a pouvoir dire toi tu rentres toi tu
+rentres pas donc les avantages de ce
+pare-feu là c'est que par défaut ce que
+l'on va pouvoir faire c'est fermé toutes
+les valves dire pour être plus personne
+peut communiquer dans les deux sens et
+ensuite on va ouvrir que les portes dont
+on a besoin</p>
+          
         </div>
 
     </section>
@@ -222,7 +228,7 @@ https://templatemo.com/tm-571-hexashop
 
     <!-- Plugins -->
     <script src="assets/js/owl-carousel.js"></script>
-    <script src="assets/js/accordions.js"></script>
+    <script src="assets/js/accordions.min.js"></script>
     <script src="assets/js/datepicker.js"></script>
     <script src="assets/js/scrollreveal.min.js"></script>
     <script src="assets/js/waypoints.min.js"></script>

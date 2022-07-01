@@ -75,13 +75,7 @@ https://templatemo.com/tm-571-hexashop
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <!-- ***** Preloader Start ***** -->
-    <div id="preloader">
-      <div class="jumper">
-        <div></div>
-        <div></div>
-        <div></div>
-      </div>
-    </div>
+   
     <!-- ***** Preloader End ***** -->
 
     <!-- ***** Header Area Start ***** -->
