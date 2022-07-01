@@ -16,7 +16,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       rel="stylesheet"
     />
 
-    <title>Backend - Créez votre application avec Java.</title>
+    <title>Backend - Créez votre application avec Java</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -147,6 +147,7 @@ https://templatemo.com/tm-571-hexashop
                   <a href="#">Ajoutez à votre panier</a>
                 </div>
               </div>
+              <div><h4 href="https://www.codecademy.com/learn/learn-java">Vous trouverez aussi notre partenariat pour découvrir d'autres</h4> </div>
             </div>
           </div>
         </div>

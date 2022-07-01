@@ -9,14 +9,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="Nodejs, javascript, MongoDB, Backend..." />
+    <meta name="description" content="Nodejs, javascript, MongoDB, Backend" />
     <meta name="author" content="Eschool" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
     />
 
-    <title>Backend - Développez votre application avec Javascript FullStack et Nodejs.</title>
+    <title>Backend - Développez votre application avec Javascript FullStack et Nodejs</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -149,6 +149,8 @@ https://templatemo.com/tm-571-hexashop
                   <a href="#">Ajoutez à votre panier</a>
                 </div>
               </div>
+              <div><h4 href="https://www.lacapsule.academy/formation-developpeur-web/full-time">Vous trouverez aussi notre partenariat pour découvrir d'autres</h4> </div>
+
             </div>
           </div>
         </div>
