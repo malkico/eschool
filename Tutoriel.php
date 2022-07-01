@@ -165,10 +165,8 @@ solidJS, comment ça se passe en vrai?</span>
               <img class="icon-tuto" src="assets/images/js-icon.png" alt="" />
             </div>
             <div class="down-content">
-              <h4>Indicateur de menu animé</h4>
-              <span>Nous allons voir aujourd'hui comment créer un effet d'indicateur animé en utilisant du CSS & du
-                JavaScript. L'objectif est de créer une petite barre qui se place sur l'onglet sélectionné avec un effet
-                de déplacement..</span>
+              <h4>Devops</h4>
+              <span>Pour apprendre DevOps, il existe de nombreuses ressources disponibles à l'Internet. Cependant, le mieux est d'en apprendre en pratique et sur le terrain...</span>
             </div>
           </div>
         </div>
@@ -181,10 +179,8 @@ solidJS, comment ça se passe en vrai?</span>
               <img class="icon-tuto" src="assets/images/php-icon.png" alt="" />
             </div>
             <div class="down-content">
-              <h4>Decouverte de Solidjs</h4>
-              <span>Dans ce tutoriel je vous propse de découvrie SolidJS,une
-                librairie JavaScript qui permet de créer des interfaces
-                utilisateur....</span>
+            <h4>Decouverte de Iptables</h4>
+                <span>C'est Iptables (parfois appelé IPtables ou iptables) est un logiciel libre et réseau qui vous permet de configurer les réglages d'accès ...</span>
             </div>
           </div>
         </div>
@@ -213,10 +209,8 @@ solidJS, comment ça se passe en vrai?</span>
                 <img class="icon-tuto" src="assets/images/php-icon.png" alt="" />
               </div>
               <div class="down-content">
-                <h4>Decouverte de Solidjs</h4>
-                <span>Dans ce tutoriel je vous propse de découvrie SolidJS,une
-                  librairie JavaScript qui permet de créer des interfaces
-                  utilisateur....</span>
+                <h4>Decouverte MySql</h4>
+                <span>dans ce tutoriel je vous propose de decouvrir MySQL un système de gestion de base de données relationnelle..</span>
               </div>
             </div>
           </div>
@@ -236,18 +230,7 @@ solidJS, comment ça se passe en vrai?</span>
             </div>
           </div>
         </a>
-        <div class="col-lg-4 grid-tuto">
-          <div class="item">
-            <div class="thumb">
-              <div class="hover-content"></div>
-              <img class="icon-tuto" src="assets/images/js-icon.png" alt="" />
-            </div>
-            <div class="down-content">
-              <h4>Decouverte de Solidjs</h4>
-              <span>Dans ce tutoriel je vous propse de découvrie SolidJS,une
-                librairie JavaScript qui permet de créer des interfaces
-                utilisateur....</span>
-            </div>
+    
           </div>
         </div>
       </div>

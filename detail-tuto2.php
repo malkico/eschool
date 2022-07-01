@@ -17,13 +17,13 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
     <!-- End Google Tag Manager -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
+    <meta name="description" content="Les serveurs de caddy sont utilisés pour le développement web. Les serveurs de caddy permettent de prendre en charge des domaines et des sites web avec une facilité accrue" />
     <meta name="author" content="" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
         rel="stylesheet" />
     <link rel="stylesheet" href="assets/css/custom-style.css" />
 
-    <title>Hexashop - Product Listing Page</title>
+    <title>Découverte de Caddy Serve</title>
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />

@@ -17,13 +17,13 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
     <!-- End Google Tag Manager -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
+    <meta name="description" content="DevOps (Developers & Operations) est un terme générique utilisé pour désigner la collaboration entre les développeurs et les opérationnels (les gestionnaires de production)" />
     <meta name="author" content="" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
         rel="stylesheet" />
     <link rel="stylesheet" href="assets/css/custom-style.css" />
 
-    <title>Hexashop - Product Listing Page</title>
+    <title>Devops: c’est quoi?</title>
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
@@ -117,50 +117,15 @@ https://templatemo.com/tm-571-hexashop
     <!-- ***** Products Area Starts ***** -->
     <section class="section" id="products">
         <div class="detail-tuto">
-            <h1>Indicateur de menu animé</h1>
-            <p>Nous allons voir aujourd'hui comment créer un effet d'indicateur animé en utilisant du CSS & du
-                JavaScript. L'objectif est de créer une petite barre qui se place sur l'onglet sélectionné avec un effet
-                de déplacement.</p>
-            <h4>Avantage par rapport à Nginx / Apache</h4>
-            <p>Cela fait un moment que j'utilise nginx pour mettre en place mes serveurs web mais Caddy vient apporter
-                des points intéréssants sur certains aspects problématiques.
+            <h1>Devops: c’est quoi, ça sert à quoi?</h1>
+            <p>DevOps (Developers & Operations) est un terme générique utilisé pour désigner la collaboration entre les développeurs et les opérationnels (les gestionnaires de production). L'objectif est de travailler en équipe, au lieu de travailler dans des silos différents. Jenkins (ou « le chef de la cuisine » en français) est un logiciel libre et gratuit permettant d'automatiser les tâches répétitives telles que l'installation des outils, l'exécution des scripts, etc.
 
-                Nginx et Apache dispose d'une configuration qui devient rapidement longue et verbeuse pour des cas
-                simples (reverse proxy, https...). La même configuration ne prend que quelques lignes sur Caddy
-                La génération des certificats SSL via let's encrypt est un peu compliqué car il faut configurer le
-                serveur d'une certaine manière pour accepter la vérification du certificat la première fois. Caddy
-                dispose lui d'un système automatisé qui ne nécessite aucune intervention pour la génération des
-                certificats.
-                L'ordre de priorité des règles peut parfois être complexe à appréhender sur nginx, Caddy dispose d'un
-                système de route permettant un meilleur contrôle.
-                Caddy est extensible à l'aide de modules qui peuvent être écrit en golang (un peu plus simple à prendre
-                en main que du C)</p>
+DevOps est un terme anglophone qui désigne les pratiques qui mènent à l’intégration de l’automatisation, des techniques de développement et de l’administration. Autrement dit, les pratiques de DevOps mènent à la création d’environnements informatiques et d’applications qui peuvent être facilement configurés et administrés..</p>
+            <p>Le DevOps est une approche pratique et responsable d'intégration des services informatiques et des opérations en vue de développer, maintenir et exploiter des services de manière efficace. Le DevOps est un mouvement de collaboration entre les équipes de développement et d'opérations visant à créer des systèmes plus flexibles et dynamiques, permettant d'avoir une meilleure stratégie et d'optimiser l'efficacité du système.
 
-            Si le composant utilise des éléments réactifs les modifications seront faites directement sur le DOM
-            sans
-            étape intermédiaire ce qui permet de bien meilleur performances. L'approche est ici similaire à celle
-            qui
-            est utilisé dans Svelte.</p>
-            <h4>Approche simple</h4>
-            <p>Caddy peut être utilisé sous forme de simple éxécutable (pratique pour une configuration docker ou dans
-                le cas d'un serveur de développement) mais aussi sous forme de service. Dans le cadre d'Ubuntu
-                l'installation de Caddy se fait de manière traditionnelle en l'ajoutant à la liste des dépôt.
 
-                Une fois installée le service va démarrer automatiquement et répondra sur le port 80 (HTTP) avec la page
-                d'accueil par défaut. Caddy peut ensuite être configuré à l'aide du fichier Caddyfile présent dans le
-                dossier /etc/caddy/
 
-                Config</p>
-            <h4>Les points négatifs</h4>
-            <p>L'élément représente une composition autonome dans un document, une page, une application ou un site,
-                destinée à être distribuée ou réutilisée de manière indépendante (par exemple, dans le cadre d'une
-                syndication). Exemples : un message de forum, un article de magazine ou de journal, ou un article de
-                blog, une fiche produit, un commentaire soumis par un utilisateur, un widget ou gadget interactif, ou
-                tout autre élément de contenu indépendant.
-                Le format des logs en JSON est un peu moins lisible que le format d'nginx (peut être une question
-                d'habitude), bien que plus facilement parsable par des outils tiers. Mais un module existe pour
-                contrebalancer ce problème.
-                Il n'y a pas de système anti burst préintégrés (un module tiers existe mais je ne l'ai pas testé).</p>
+Le DevOps est un mouvement qui fait partie de la culture agile. C'est un mouvement qui vise à renforcer la collaboration et le travail collaboratif entre les développeurs et les opérateurs système, afin de créer des applications plus évoluées et plus performantes. Le DevOps est l'art de lier le développement d'applications informatiques au déploiement et à la production d'applications informatiques. Le DevOps a été mis au point par le spécialiste en technologie, aguerri, DevOps,</p>
         </div>
 
     </section>
