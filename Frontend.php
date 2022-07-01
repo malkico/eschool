@@ -2,7 +2,7 @@
 require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.php';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <!-- Google Tag Manager -->
     <script>
@@ -23,14 +23,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="" />
+    <meta name="description" content="Découvrez l'ensemble des technologies Front-End utilisée en 2022  pour développer vos projets web" />
     <meta name="author" content="" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
     />
 
-    <title>Hexashop - Product Listing Page</title>
+    <title>Des formations pas chères dans les tehnologies Front-end</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -165,14 +165,14 @@ https://templatemo.com/tm-571-hexashop
                 <img
                   width="200px"
                   height="200px"
-                  src="assets/images.phpcss.png"
+                  src="assets/images/htmlcss.png"
                   alt=""
                 />
               </div>
               <div class="down-content">
                 <h4>
                   <a href="htmcss.php"
-                    >Créez votre site web avec.php5 et CSS</a
+                    >Créez votre site web avec HTML et CSS</a
                   >
                 </h4>
                 <span>€ 280.00</span>
