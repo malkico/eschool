@@ -128,8 +128,8 @@ https://templatemo.com/tm-571-hexashop
         <div class="row">
           <div class="col-lg-8">
             <div class="left-images">
-              <img src="assets/images/wordpress.png" alt="" />
-              <img src="assets/images/wordpress2.png" alt="" />
+              <img src="assets/images/salesforce.png" alt="" />
+              <img src="assets/images/salesforce1.png" alt="" />
             </div>
           </div>
           <div class="col-lg-4">
