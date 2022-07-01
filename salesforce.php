@@ -9,14 +9,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="Nodejs, javascript, MongoDB, Backend" />
+    <meta name="description" content=" Salesforce, Apprendre, evoluer echanger, dynamique economique, trailhead, transformer" />
     <meta name="author" content="Eschool" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
-    />
+    /> 
 
-    <title>Backend - Développez votre application avec Javascript FullStack et Nodejs</title>
+    <title>CRM - Salesforce pour gérer votre entreprise</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -114,7 +114,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span.php, Nodejs, javascript, MongoDB, Backend...</span>
+              <span.php,  Salesforce, Apprendre, evoluer echanger, dynamique economique, trailhead, transformer</span>
             </div>
           </div>
         </div>
@@ -128,34 +128,31 @@ https://templatemo.com/tm-571-hexashop
         <div class="row">
           <div class="col-lg-8">
             <div class="left-images">
-              <img src="assets/images/nodejs.png" alt="" />
-              <img src="assets/images/nodejs2.png" alt="" />
+              <img src="assets/images/wordpress.png" alt="" />
+              <img src="assets/images/wordpress2.png" alt="" />
             </div>
           </div>
           <div class="col-lg-4">
             <div class="right-content">
-              <h1>Le génial apprentissage de Nodejs</h1>
-              <span class="price">€ 280.00</span>
+              <h1>Apprenez à utiliser Salesforce de manière ludique. </h1>
+              <span class="price">€ 200.00</span>
 
               <p></p>
-              avaScript est une des technologies qui sont les plus utilisées aujourd'hui pour la création de pages web dynamiques. De plus, elle est utilisée pour la création de back-end et de front-end dans de nombreuses applications. Elle est aussi utilisée pour créer des applications mobiles. Node.js s'utilise avec MongoDB et Express pour créer des applications dynamiques, ou même des applications web avec une interface en ligne.
-              L'API dynamique est une API qui permet aux applications clientes de consulter la base de données sans avoir à connaître le format sous-jacent. Un serveur d’API dynamique est un serveur web qui se connecte à une base de données et qui produit des données sous forme de texte brut ou découpé en blocs (le contenu est découpé en blocs afin d'être plus facilement traité par le code JavaScript du client).  
-            </p>
+              Salesforce est une entreprise qui propose des outils informatiques pour les gestionnaires d'entreprises. Cette entreprise est connue pour son logiciel de CRM appelé Salesforce. Ce dernier permet de faire des échanges entre les clients et les fournisseurs, ce qui facilite la vente et le marketing. Salesforce est également connu pour son programme appelé Trailhead. Ce dernier a pour but de transformer les employés en développeurs informatiques.
+              Salesforce est une entreprise américaine créée en 1999. Elle se spécialise dans la fourniture de solutions de gestion de la relation client (CRM). Elle s'est développée en présentant ses solutions via des plateformes d'apprentissage, nommées Salesforce Trailhead et Salesforce for Startups.              </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                Node.js est un langage de programmation JavaScript qui est utilisé pour créer des applications en ligne, mais il peut également être utilisé pour créer des services Web. Les applications Node.js sont écrites en JavaScript, ce qui signifie que les programmeurs doivent avoir des connaissances de base dans ce langage. Cependant, les développeurs peuvent facilement obtenir des compétences en JavaScript grâce à un ensemble d’applications en ligne et d'autres ressources gratuites.
-                Node.js est un framework JavaScript qui permet d'écrire des applications web dynamiques. C'est un environnement de programmation qui réduit le nombre d'étapes nécessaires pour créer des applications web. La plate-forme prend en charge de nombreux langages de développement, y compris JavaScript, et peut être utilisée pour créer des applications frontend ou des applications back-end.  
-              </p>
+                Salesforce est une entreprise qui propose des outils informatiques pour les gestionnaires d'entreprises. Cette entreprise est connue pour son logiciel de CRM appelé Salesforce. Ce dernier permet de faire des échanges entre les clients et les fournisseurs, ce qui facilite la vente et le marketing. Salesforce est également connu pour son programme appelé Trailhead. Ce dernier a pour but de transformer les employés en développeurs informatiques.                </p>
               </div>
               <br />
               <div class="total">
-                <h4>€ 280.00</h4>
+                <h4>€ 200.00</h4>
                 <div class="main-border-button">
                   <a href="#">Ajoutez à votre panier</a>
                 </div>
               </div>
-
+            </div>
           </div>
         </div>
       </div>

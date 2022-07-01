@@ -9,14 +9,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="Nodejs, javascript, MongoDB, Backend" />
+    <meta name="description" content=" SAP, Améliorez technologiques, certification, openSAP, Formation SAP animée par un formateur" />
     <meta name="author" content="Eschool" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
-    />
+    /> 
 
-    <title>Backend - Développez votre application avec Javascript FullStack et Nodejs</title>
+    <title>CRM - SAP Logistique</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -114,7 +114,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span.php, Nodejs, javascript, MongoDB, Backend...</span>
+              <span.php,  SAP, Améliorez technologiques, certification, openSAP, Formation SAP animée par un formateur</span>
             </div>
           </div>
         </div>
@@ -128,34 +128,30 @@ https://templatemo.com/tm-571-hexashop
         <div class="row">
           <div class="col-lg-8">
             <div class="left-images">
-              <img src="assets/images/nodejs.png" alt="" />
-              <img src="assets/images/nodejs2.png" alt="" />
+              <img src="assets/images/wordpress.png" alt="" />
+              <img src="assets/images/wordpress2.png" alt="" />
             </div>
           </div>
           <div class="col-lg-4">
             <div class="right-content">
-              <h1>Le génial apprentissage de Nodejs</h1>
-              <span class="price">€ 280.00</span>
+              <h1>Apprenez à utiliser SAP de manière ludique.</h1>
+              <span class="price">€ 200.00</span>
 
               <p></p>
-              avaScript est une des technologies qui sont les plus utilisées aujourd'hui pour la création de pages web dynamiques. De plus, elle est utilisée pour la création de back-end et de front-end dans de nombreuses applications. Elle est aussi utilisée pour créer des applications mobiles. Node.js s'utilise avec MongoDB et Express pour créer des applications dynamiques, ou même des applications web avec une interface en ligne.
-              L'API dynamique est une API qui permet aux applications clientes de consulter la base de données sans avoir à connaître le format sous-jacent. Un serveur d’API dynamique est un serveur web qui se connecte à une base de données et qui produit des données sous forme de texte brut ou découpé en blocs (le contenu est découpé en blocs afin d'être plus facilement traité par le code JavaScript du client).  
-            </p>
+              Les entreprises ont besoin d'employés compétents pour être à la pointe de l'avancement technologique. Les certifications SAP offrent une formation de pointe sous forme d'une suite de cours qui vous aideront à mieux comprendre les logiciels et les applications SAP, à les utiliser et à les améliorer. Pour plus d'informations sur les avantages des certifications SAP,               </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                Node.js est un langage de programmation JavaScript qui est utilisé pour créer des applications en ligne, mais il peut également être utilisé pour créer des services Web. Les applications Node.js sont écrites en JavaScript, ce qui signifie que les programmeurs doivent avoir des connaissances de base dans ce langage. Cependant, les développeurs peuvent facilement obtenir des compétences en JavaScript grâce à un ensemble d’applications en ligne et d'autres ressources gratuites.
-                Node.js est un framework JavaScript qui permet d'écrire des applications web dynamiques. C'est un environnement de programmation qui réduit le nombre d'étapes nécessaires pour créer des applications web. La plate-forme prend en charge de nombreux langages de développement, y compris JavaScript, et peut être utilisée pour créer des applications frontend ou des applications back-end.  
-              </p>
+                SAP offre une gamme complète d'applications et de solutions technologiques. Les solutions SAP sont conçues pour aider les entreprises à prendre leur place sur les marchés mondiaux, augmenter leur productivité et améliorer leur rentabilité. La certification SAP vous permet de montrer votre expertise dans certaines technologies SAP. openSAP est une initiative de la fondation SAP qui a pour but de fournir des ressources gratuites pour les étudiants et les enseignants des écoles et des universités.                </p>
               </div>
               <br />
               <div class="total">
-                <h4>€ 280.00</h4>
+                <h4>€ 200.00</h4>
                 <div class="main-border-button">
                   <a href="#">Ajoutez à votre panier</a>
                 </div>
               </div>
-
+            </div>
           </div>
         </div>
       </div>

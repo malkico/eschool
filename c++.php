@@ -152,7 +152,6 @@ https://templatemo.com/tm-571-hexashop
                   <a href="#">Ajoutez à votre panier</a>
                 </div>
               </div>
-              <div><h4 href="https://openclassrooms.com/fr/courses">Vous trouverez aussi notre partenariat pour découvrir d'autres</h4> </div>
             </div>
           </div>
         </div>

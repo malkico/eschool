@@ -155,7 +155,6 @@ https://templatemo.com/tm-571-hexashop
                 </div>
               </div>
               
-              <div><h4 href="https://www.dawan.fr/formations/-.net">Vous trouverez aussi notre partenariat pour découvrir d'autres</h4> </div>
             </div>
           </div>
         </div>
