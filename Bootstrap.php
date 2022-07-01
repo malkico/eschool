@@ -16,7 +16,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       rel="stylesheet"
     />
 
-    <title>Hexashop - Product Detail Page</title>
+    <title>Bootstrap</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -51,13 +51,7 @@ https://templatemo.com/tm-571-hexashop
 
   <body>
     <!-- ***** Preloader Start ***** -->
-    <div id="preloader">
-      <div class="jumper">
-        <div></div>
-        <div></div>
-        <div></div>
-      </div>
-    </div>
+   
     <!-- ***** Preloader End ***** -->
 
     <!-- ***** Header Area Start ***** -->
@@ -246,7 +240,7 @@ Commencez dès maintenant à augmenter votre productivité en tant que développ
 
     <!-- Plugins -->
     <script src="assets/js/owl-carousel.js"></script>
-    <script src="assets/js/accordions.js"></script>
+    <script src="assets/js/accordions.min.js"></script>
     <script src="assets/js/datepicker.js"></script>
     <script src="assets/js/scrollreveal.min.js"></script>
     <script src="assets/js/waypoints.min.js"></script>

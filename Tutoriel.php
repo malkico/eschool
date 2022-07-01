@@ -311,7 +311,7 @@ solidJS, comment ça se passe en vrai?</span>
 
   <!-- Plugins -->
   <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/accordions.js"></script>
+  <script src="assets/js/accordions.min.js"></script>
   <script src="assets/js/datepicker.js"></script>
   <script src="assets/js/scrollreveal.min.js"></script>
   <script src="assets/js/waypoints.min.js"></script>
