@@ -118,32 +118,93 @@ https://templatemo.com/tm-571-hexashop
     <section class="section" id="products">
         <div class="detail-tuto">
             <h1>Découverte de Caddy Server</h1>
-            <p>Si on regarde les premiers exemples de la documentation on peut penser que SolidJS n'est qu'un simple
-                clone de React (un peu comme Preact).</p>
-            <h4>Avantage par rapport à Nginx / Apache</h4>
-            <p>Cela fait un moment que j'utilise nginx pour mettre en place mes serveurs web mais Caddy vient apporter des points intéréssants sur certains aspects problématiques.
+            <p>Les serveurs de caddy sont utilisés pour le développement web. Les serveurs de caddy permettent de prendre en charge des domaines et des sites web avec une facilité accrue grâce à une interface utilisateur, un serveur automatique et un assistant. Les serveurs de caddy offrent des fonctionnalités avancées d'administration, telles que les certificats SSL et les réglages d'accès par IP.</p>
+            <h2>Avantage par rapport à Nginx / Apache</h2>
+            <p>Bienvenue dans cette nouveau
+tutoriel aujourd'hui je vous propose de
+découvrir ensemble le serveur web cad
+donc à 10 et se veut être une
+alternative à ngx waha pages qui a comme
+particularité d'avoir une configuration
+qui est simplifié vous allez le voir on
+peut très rapidement configurer un nom
+de domaine et en plus il va avoir la
+gestion du certificat ssl automatique
+donc lorsque l'on va configurer le nom
+de domaine pas besoin de s'embêter avec
+les 100 script est certes bottes et tout
+ça automatiquement ces cas dits qui va
+gérer ça pour pour nous donc lorsque
+l'on souhaite déployer une application
+est un site c'est très rapide alors
+c'est ce que je vous propose aujourd'hui
+j'ai pris un petit nom de domaine que
+j'ai relié à un serveur qui fait tourner
+actuellement ubuntu donc mon objectif
+pour commencer c'est d'installer caddie
+donc si on se rend au niveau de la
+documentation up et on a une partie
+installation ici on a différents types
+d'installations donc moi je suis sur un
+ubuntu donc je vais prendre la version
+stable donc on doit commencer par
+installer le système de clé donc ça
+c'est ce qui va permettre de rajouter
+des éléments au dépôt est de faire en
+sorte que ça fonctionne correctement
+donc ça s'est relativement classique
+ensuite on va venir télécharger la clé
+ça correspond la seconde ligne voilà une
+fois qu'elle est téléchargé on va
+rajouter les dépôts à la liste de nos
+dépôts donc ça c'est ce que fait cette
+commande c'est la commande de ti
+et une fois que c'est fait on peut faire
+un à péter à beit histoire de mettre à
+jour la liste des dépôts et une fois que
+ça a fini on va pouvoir faire un appétit
+installe et on va installer cadic donc
+évidemment faudra adapter en fonction de
+votre système une fois que s'est
+installée dans le cadre du blue tooth il
+va automatiquement démarrer le service
+qui va faire fonctionner qu'à 10
+serveurs donc dès lors lorsque je me
+rendre sur mon nom de domaine ou si je
+tape lippé de mon serveur lorsque je
+réactualise je me retrouve avec la page
+d'accueil de caddy un petit peu comme
+la page d'accueil de nginx donc sur
+cette page on a différentes instructions
+sur commande configurer qu'a dit on nous
+dit que ça a bien fonctionné et s'il ya
+des problèmes on nous explique un petit
+peu ce qu'il faut regarder à moi ce qui
+va m'intéresser c'est cette commande là
+cette commande elle va permettre de voir
+le log qui sort de ce service là
+je vais faire c'est que sur un terminal
+je vais laisser cette commande de
+tourner ça nous permettra de voir ce qui
+se passe lorsque l'on configure caddy
+donc je vais le faire ici sur la colonne
+de droite je vais faire un coup de
+journal s'était elle tire et irène open
+je retirais eu donc eu ça va permet de
+choisir l'unité on va ici regardez les
+log de caddy et je vais rajouter un tir
+et f pour qu'il continue à les afficher
+au fur et à mesure donc comme il est dit
+dans cette petite partie accueil en a la
+possibilité de modifier la configuration
+de code caddie en modifiant ce fichier.</p>
+            <h2>Installation de Caddy</h2>
+            <p>C
+La première chose à faire est de trouver un emplacement pour votre caddy. C'est là que vous devez le fixer. Pour réaliser cette étape, vous devrez d'abord déterminer si votre caddy sera fixé au mur ou sur un support comme un meuble ou une étagère. Les supports sont beaucoup plus pratiques, car ils ne nécessitent pas d'entretien et peuvent être déplacés facilement. Après avoir pris la décision, vous devez choisir la position de votre caddy
 
-                Nginx et Apache dispose d'une configuration qui devient rapidement longue et verbeuse pour des cas simples (reverse proxy, https...). La même configuration ne prend que quelques lignes sur Caddy
-                La génération des certificats SSL via let's encrypt est un peu compliqué car il faut configurer le serveur d'une certaine manière pour accepter la vérification du certificat la première fois. Caddy dispose lui d'un système automatisé qui ne nécessite aucune intervention pour la génération des certificats.
-                L'ordre de priorité des règles peut parfois être complexe à appréhender sur nginx, Caddy dispose d'un système de route permettant un meilleur contrôle.
-                Caddy est extensible à l'aide de modules qui peuvent être écrit en golang (un peu plus simple à prendre en main que du C)</p>
-
-                Si le composant utilise des éléments réactifs les modifications seront faites directement sur le DOM
-                sans
-                étape intermédiaire ce qui permet de bien meilleur performances. L'approche est ici similaire à celle
-                qui
-                est utilisé dans Svelte.</p>
-            <h4>Installation de Caddy</h4>
-            <p>Caddy peut être utilisé sous forme de simple éxécutable (pratique pour une configuration docker ou dans le cas d'un serveur de développement) mais aussi sous forme de service. Dans le cadre d'Ubuntu l'installation de Caddy se fait de manière traditionnelle en l'ajoutant à la liste des dépôt.
-
-                Une fois installée le service va démarrer automatiquement et répondra sur le port 80 (HTTP) avec la page d'accueil par défaut. Caddy peut ensuite être configuré à l'aide du fichier Caddyfile présent dans le dossier /etc/caddy/
-                
-                Config</p>
-            <h4>Les points négatifsn</h4>
-            <p>Evidemment tout n'est pas parfait et j'ai rencontré quelques problème (peut être par manque de connaissance donc n'hésitez pas à me corriger).
-
-                Le format des logs en JSON est un peu moins lisible que le format d'nginx (peut être une question d'habitude), bien que plus facilement parsable par des outils tiers. Mais un module existe pour contrebalancer ce problème.
-                Il n'y a pas de système anti burst préintégrés (un module tiers existe mais je ne l'ai pas testé).</p>
+</p>
+            <h2>Les points négatif</h2>
+            <p>Vous pourriez être amené à installer un serveur caddy afin de permettre à votre entreprise de gérer les fichiers de sauvegarde et d'autres informations, comme les mots de passe et les adresses IP. Les serveurs caddy sont faciles à installer, mais ils ont besoin d'un administrateur ayant une certaine expérience pour les gérer correctement.</p>
         </div>
 
     </section>
