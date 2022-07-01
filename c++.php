@@ -1,5 +1,5 @@
 <?php
-require $_SERVER['DOCUMENT_ROOT'].'/seolyzer.php';
+require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -39,6 +39,14 @@ TemplateMo 571 Hexashop
 https://templatemo.com/tm-571-hexashop
 
 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z5WSPT3J4C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z5WSPT3J4C');
+</script>
   </head>
 
   <body>
@@ -189,7 +197,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-3">
             <h4>Liens interessants</h4>
             <ul>
-              <li><a href="Index.php">Acueill</a></li>
+              <li><a href="index.php">Acueill</a></li>
               <li><a href="AProposDeNous.php">à propos de nous</a></li>
               <li><a href="Contact.php">Contact</a></li>
             </ul>

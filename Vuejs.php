@@ -1,22 +1,22 @@
 <?php
-require $_SERVER['DOCUMENT_ROOT'].'/seolyzer.php';
+require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.php';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="utf-8" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="" />
+    <meta name="description" content="Vue.js est un framework progressif pour JavaScript utilisé pour créer des interfaces Web et des applications d'une page de type (SPA)" />
     <meta name="author" content="" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
     />
 
-    <title>Hexashop - Product Detail Page</title>
+    <title>Formation pas chère Vue.js</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -39,6 +39,14 @@ TemplateMo 571 Hexashop
 https://templatemo.com/tm-571-hexashop
 
 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z5WSPT3J4C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z5WSPT3J4C');
+</script>
   </head>
 
   <body>
@@ -196,7 +204,7 @@ gérer les données d'une application.
           <div class="col-lg-3">
             <h4>Liens interessants</h4>
             <ul>
-              <li><a href="Index.php">Acueill</a></li>
+              <li><a href="index.php">Acueill</a></li>
               <li><a href="AProposDeNous.php">à propos de nous</a></li>
               <li><a href="Contact.php">Contact</a></li>
             </ul>

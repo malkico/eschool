@@ -1,22 +1,22 @@
 <?php
-require $_SERVER['DOCUMENT_ROOT'].'/seolyzer.php';
+require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.php';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="utf-8" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="description" content="On vous explique comment créer un fichier HTML, un fichier CSS et comment les faire fonctionner ensemble." />
+    <meta name="author" content="Eschool" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
     />
 
-    <title>Hexashop - Product Detail Page</title>
+    <title>Formation certifiante HTML & CSS</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -39,6 +39,14 @@ TemplateMo 571 Hexashop
 https://templatemo.com/tm-571-hexashop
 
 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z5WSPT3J4C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z5WSPT3J4C');
+</script>
   </head>
 
   <body>
@@ -126,10 +134,10 @@ https://templatemo.com/tm-571-hexashop
           </div>
           <div class="col-lg-4">
             <div class="right-content">
-              <h1.php CSS</h1>
+              <h1> HTML/CSS</h1>
               <span class="price">€ 280.00</span>
 
-              <p></p>
+              <p>
               ous souhaitez créer vos propres sites web ? Vous êtes au bon endroit ! Dans ce cours, vous apprendrez comment utiliser.php5 et CSS3, les deux langages de programmation à la base de tous les sites web.
 
               Vous pensez peut-être que vous n'êtes pas fait pour apprendre un langage informatique, mais ne vous inquiétez pas :.php et CSS sont des langages simples, que nous allons découvrir pas à pas, au cours de nombreux exercices. Vous serez bientôt capable d'ajouter du texte à votre site, de construire un menu de navigation, d'insérer des images... et bien plus encore !
@@ -205,7 +213,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-3">
             <h4>Liens interessants</h4>
             <ul>
-              <li><a href="Index.php">Acueill</a></li>
+              <li><a href="index.php">Acueill</a></li>
               <li><a href="AProposDeNous.php">à propos de nous</a></li>
               <li><a href="Contact.php">Contact</a></li>
             </ul>
