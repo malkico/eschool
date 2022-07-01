@@ -9,14 +9,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="description" content="PHP, sites web, blogs, sites e-commerce, sites dynamiques, débutants en PHP, créer votre propre site" />
+    <meta name="author" content="Eschool" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
     />
 
-    <title>Hexashop - Product Detail Page</title>
+    <title>Backend - PHP est une langage Backend - Apprendre à créer votre application e-commerce.</title>
 
     <!-- Additional CSS Files -->
     <link

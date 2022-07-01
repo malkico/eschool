@@ -9,14 +9,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="description" content="Csharp, qualité logicielle, application, .Net, plugin, développement informatique." />
+    <meta name="author" content="Eschool" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
     />
 
-    <title>Hexashop - Product Detail Page</title>
+    <title>Backend - Application avec CSharp et .Net</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -114,7 +114,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span.php, CSS, Javascript, Java, C++, Wordpress...</span>
+              <span.php, Csharp, qualité logicielle, application, .Net, plugin, développement informatique.</span>
             </div>
           </div>
         </div>
@@ -138,23 +138,14 @@ https://templatemo.com/tm-571-hexashop
               <span class="price">€ 480.00</span>
 
               <p></p>
-              Vous souhaitez vous assurer que l'application que vous venez de développer fonctionne ?
-
-              Vous voulez qu'elle continue à fonctionner tout en poursuivant son amélioration ?
-              
-              Vous êtes intéressé par la qualité logicielle et vous souhaitez découvrir ce qui donne de la valeur à un test, ainsi que les différents types de tests que l'on peut faire ?
-              
-              Alors ce cours est fait pour vous ! :D
-              
-              Dans ce cours, je vais vous présenter cette pratique qui est l'une des plus importantes du monde du développement informatique.
+              Les applications « traditionnelles » sont des programmes informatiques qui exécutent des tâches standardisées et automatisées de façon répétitrice. Les progiciels modernes, tels que Ruby on Rails et WordPress, sont des logiciels d'application Web qui fonctionnent comme un service Web, mais qui sont écrits en langage de programmation C#. Avec le développement informatique, les entreprises peuvent utiliser les applications d'affaires et les logiciels d'entreprise.
               </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                  Vous allez vite vous rendre compte que les tests sont un filet de sécurité fort appréciable dès que l'on modifie du code, que ce soit le nôtre ou celui des autres. Nous nous pencherons plus particulièrement sur la pratique de tests automatisés et nous utiliserons le C# comme langage de développement.
-
-                  Alors, tenté ? N'attendez plus et rejoignez-moi dans ce cours qui vous donnera, je l'espère, les armes indispensables afin d'améliorer la qualité d'un code !
-                </p>
+                C# est une plate-forme de développement logiciel permettant l'exécution des applications sur les systèmes d'exploitation Windows, MacOS, iOS et Android. La plateforme C# est un langage orienté-objet qui utilise des instructions de programmation en C++, Java et C#. Cette plate-forme de développement permet la création de programmes en code source ouvert ainsi que de programme d'interactivité.
+                Ce langage de programme a été développé par Bjarne Stroustrup en 1979. La version la plus récente du langage est la C++ 11. Il est utilisé dans le monde des jeux vidéo pour le rendu 3D, les moteurs de jeu et la gestion des performances. Il s'agit d'un langage de programmation orienté objet et multi-paradigmes. Il est aussi un langage de programmation orienté service et un langage de programmation orienté type.
+              </p>
               </div>
               <br />
               <div class="total">
