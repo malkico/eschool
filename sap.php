@@ -128,8 +128,8 @@ https://templatemo.com/tm-571-hexashop
         <div class="row">
           <div class="col-lg-8">
             <div class="left-images">
-              <img src="assets/images/sap.png" alt="" />
               <img src="assets/images/sap1.png" alt="" />
+              <img src="assets/images/sap2.jfif" alt="" />
             </div>
           </div>
           <div class="col-lg-4">
