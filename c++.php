@@ -114,7 +114,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span.php, CSS, Javascript, Java, C++, Wordpress...</span>
+              <span.php, programmation C++, débutants, célèbres au monde, jeux vidéo, performances, C++ pour les développeurs</span>
             </div>
           </div>
         </div>
@@ -138,17 +138,12 @@ https://templatemo.com/tm-571-hexashop
               <span class="price">€ 500.00</span>
 
               <p></p>
-              La programmation C++ vous intéresse, mais ça vous paraît trop compliqué ?
-
-              Pas d'inquiétude, ce cours est fait pour les débutants !
-              
-              Le langage C++ est un des langages les plus célèbres au monde. Très utilisé, notamment dans le secteur des jeux vidéo qui apprécie ses performances et ses possibilités, le C++ est désormais incontournable pour les développeurs.
+              Le C++ a été inventé par le langageur américain Bjarne Stroustrup en 1979. Il a été développé dans un premier temps au sein de l'université de Bell. Cette version originale a été appelée "C with Classes". La version actuelle du C++ est sortie en 1985. Le langage a été conçu pour être objectif et orienté objet, il est donc polyvalent et peut être adapté à de nombreux domaines. Il est parfait pour être utilisé dans la programmation
               </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                  Le C++ est le descendant du langage C. Ces deux langages, bien que semblables au premier abord, sont néanmoins différents. Le C++ propose de nouvelles fonctionnalités qui permettent de programmer avec une approche différente.
-                </p>
+                C++ est un langage de programmation informatique conçu par Bjarne Stroustrup, qui est utilisé pour créer des applications, des jeux vidéo et des systèmes. Il est très populaire dans le monde professionnel notamment dans le monde du jeu vidéo, de l'Internet et de l'informatique embarquée. C++ est un langage de programmation orienté objet avec un type dynamique. La performance est une caractéristique importante du langage.                </p>
               </div>
               <br />
               <div class="total">

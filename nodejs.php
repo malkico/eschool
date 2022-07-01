@@ -134,37 +134,19 @@ https://templatemo.com/tm-571-hexashop
           </div>
           <div class="col-lg-4">
             <div class="right-content">
-              <h1>Nodejs</h1>
+              <h1>Le génial apprentissage de Nodejs</h1>
               <span class="price">€ 280.00</span>
 
               <p></p>
-                JavaScript reste-t-il uniquement un langage de front-end ? Plus
-                maintenant ! Avec Node, Express et MongoDB, vous pouvez utiliser
-                vos compétences de ninja JavaScript pour le back-end ! À partir
-                de Node et d'Express, vous découvrirez comment les applications
-                web fonctionnent sur le back-end. Vous créerez diverses routes
-                pour les différentes fonctions à mettre à la disposition de
-                votre API. Ensuite, vous ajouterez MongoDB, une base de données
-                NoSQL, pour rendre votre API entièrement dynamique et vos
-                données pleinement persistantes.
-              </p>
+              avaScript est une des technologies qui sont les plus utilisées aujourd'hui pour la création de pages web dynamiques. De plus, elle est utilisée pour la création de back-end et de front-end dans de nombreuses applications. Elle est aussi utilisée pour créer des applications mobiles. Node.js s'utilise avec MongoDB et Express pour créer des applications dynamiques, ou même des applications web avec une interface en ligne.
+              L'API dynamique est une API qui permet aux applications clientes de consulter la base de données sans avoir à connaître le format sous-jacent. Un serveur d’API dynamique est un serveur web qui se connecte à une base de données et qui produit des données sous forme de texte brut ou découpé en blocs (le contenu est découpé en blocs afin d'être plus facilement traité par le code JavaScript du client).  
+            </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                  De nombreux cours de ce type vous permettent d'accéder à un
-                  framework front-end, tel que Angular, React ou Vue. Mais dans
-                  ce cours, l'application front-end est déjà créée ! De cette
-                  façon, vous pourrez vous concentrer sur la création de votre
-                  API et la regarder évoluer, en affinant vos compétences
-                  back-end et en choisissant librement votre propre parcours.
-                  L'application sur laquelle vous travaillerez est un magasin en
-                  ligne simple. Vous créerez une API pour Créer, Lire, Mettre à
-                  jour et Supprimer (CRUD pour l’anglais Create, Read, Update
-                  and Delete) des éléments en vente. Vous ajouterez
-                  l'authentification à votre API pour la protéger, et vous
-                  intégrerez également la gestion des fichiers utilisateur pour
-                  autoriser les utilisateurs à télécharger des images.
-                </p>
+                Node.js est un langage de programmation JavaScript qui est utilisé pour créer des applications en ligne, mais il peut également être utilisé pour créer des services Web. Les applications Node.js sont écrites en JavaScript, ce qui signifie que les programmeurs doivent avoir des connaissances de base dans ce langage. Cependant, les développeurs peuvent facilement obtenir des compétences en JavaScript grâce à un ensemble d’applications en ligne et d'autres ressources gratuites.
+                Node.js est un framework JavaScript qui permet d'écrire des applications web dynamiques. C'est un environnement de programmation qui réduit le nombre d'étapes nécessaires pour créer des applications web. La plate-forme prend en charge de nombreux langages de développement, y compris JavaScript, et peut être utilisée pour créer des applications frontend ou des applications back-end.  
+              </p>
               </div>
               <br />
               <div class="total">

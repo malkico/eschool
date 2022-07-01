@@ -113,7 +113,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span.php, CSS, Javascript, Java, C++, Wordpress...</span>
+              <span.php, PHP, sites web, blogs, sites e-commerce, sites dynamiques, débutants en PHP, créer votre propre site</span>
             </div>
           </div>
         </div>
@@ -137,21 +137,15 @@ https://templatemo.com/tm-571-hexashop
               <span class="price">€ 300.00</span>
 
               <p></p>
-              PHP permet de développer toutes sortes de sites web : blogs, réseaux sociaux, sites e-commerce… car ce langage a justement été conçu pour créer des sites "vivants".
-
-              On appelle ces sites des "sites dynamiques".
-              
-              Cela vous semble compliqué ? Pas de panique : c'est un cours pour vrais débutants en PHP et vous pourrez avancer à votre rythme, étape par étape. Vous allez voir qu'à la fin, vous serez capable de créer votre propre site !
-              </p>
+              PHP est un langage de programmation qui est utilisé pour créer des sites web interactifs. Il permet d'ajouter des fonctionnalités telles que le formulaire d'inscription et de capture de données, les modèles de calcul et les formulaires de calcul de panier, les systèmes de paiement sécurisés et les listes à puces. PHP est un langage open source qui est disponible gratuitement. Il existe également plusieurs serveurs web et applications hébergées qui permettent aux débutants en PHP d'avoir une page web
+              Le langage de programmation PHP est très utilisé pour créer des sites Web dynamiques ou des sites e-commerce. C'est un langage de script peu exigeant en ressources, qui est simple à utiliser. Il est aussi le langage de programmation le plus utilisé sur Internet. Avec PHP, vous pouvez créer un site à la fois simple et attractif, qui sera facile à modifier pour gérer des modifications futures.  
+            </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                  D'ailleurs, pour vous accompagner dans votre apprentissage, nous avons intégré un projet fil rouge sur lequel vous allez progresser de chapitre en chapitre. Chaque chapitre vous permettra de compléter un morceau du TP. C'est pour cela que nous vous conseillons de les suivre dans l'ordre.
-
-Au cours de ce TP, nous allons réaliser ensemble un site web dynamique qui permettra aux utilisateurs de contribuer en partageant des recettes de cuisine ; de quoi voir les bases et vous lancer dans l'aventure PHP en toute autonomie !
-
-Vous avez hâte de découvrir tout ce que vous saurez faire à la fin du cours ? 
-                </p>
+                PHP est une langue de programmation orientée objet et un système de gestion de contenu pour la conception de logiciels web. La principale différence entre PHP et d’autres langages de programmation est qu’elle est interprétée, ce qui signifie que les programmes PHP sont exécutés directement sur le serveur web plutôt que d’être traduits dans une autre langue pour ensuite être exécutés dans un environnement exécutant (comme le fait Java). 
+                PHP est un langage de script qui est utilisé pour créer des sites web dynamiques. Les sites web dynamiques comprennent des applications interactives, telles que les forums, les chats, les blogs, les sites de vente en ligne et plus. PHP est très populaire parmi les débutants en programmation car il est aussi facile à apprendre qu'à employer. PHP est également une technologie libre qui peut être utilisée gratuitement.  
+              </p>
               </div>
               <br />
               <div class="total">

@@ -114,7 +114,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span.php, CSS, Javascript, Java, C++, Wordpress...</span>
+              <span.php, Java, programme informatique, par les bases, pratiquant avec des exercices, développer des programme...</span>
             </div>
           </div>
         </div>
@@ -138,23 +138,13 @@ https://templatemo.com/tm-571-hexashop
               <span class="price">€ 400.00</span>
 
               <p></p>
-              Qu’est-ce qu’un programme informatique ? Comment peut-on dire à un ordinateur de dire bonjour, de compter jusqu’à cent, de jongler, d’envoyer des fusées dans l’espace ?
-
-              Il suffit de lui demander… Et c’est le rôle du développeur !
-              
-              En suivant ce cours, vous allez apprendre les bases d’un des langages de programmation les plus populaires : le  Java ! 
-              
-              En commençant par les bases, et en pratiquant avec des exercices, vous allez découvrir comment développer des programmes répondant à des besoins réels.
-              </p>
-              <div class="quote">
-                <i class="fa fa-quote-left"></i>
+              Le monde du développement informatique est en plein changement. Dans la plupart des cas, il s'agit de la fusion de plusieurs domaines, comme le développement web, la programmation orientée objet, l'intelligence artificielle et les systèmes automatisés. Contrairement à d'autres domaines du développement informatique, le monde du développement logiciel est devenu un domaine en expansion rapide qui inclut des tâches de design et de recherche ainsi que des tâches pratiques.              <div class="quote">
+              Les développeurs de logiciels devraient toujours travailler à améliorer la qualité de leurs logiciels. Le logiciel mal développé peut causer des problèmes de performances et de stabilité. Il peut aussi nuire à la réputation de votre entreprise. Une solution pour développer des fonctionnalités efficaces est d'utiliser une méthodologie agile.  
+              <i class="fa fa-quote-left"></i>
                 <p>
-                  Nous irons ensuite ensemble dans l’univers de la programmation orientée objet, là où Java montre toute sa puissance.
-
-                  Pour finir, nous verrons des éléments pour aller plus loin, mieux contrôler vos programmes, les bonnes pratiques…
-                  
-                  Ne perdons pas plus de temps, allons découvrir les possibilités qu’offre la programmation en Java !
-                </p>
+                La grande majorité des logiciels de nos jours sont développés dans l'objectif de créer un monde meilleur. C'est pourquoi les développeurs sont très enthousiastes. Les développeurs nationaux et étrangers travaillent ensemble, ce qui améliore le monde informatique. Les développeurs internationaux peuvent partager leurs idées, ce qui améliore le monde informatique dans son ensemble.                
+                L'un des avantages du développement logiciels en .NET est la facilité d'utilisation que permet le langage C#. Cela facilite la création de programmes en ligne avec les besoins des utilisateurs finaux. Il permet d'écrire des programmes qui peuvent être facilement maintenus et maintenus. Cela signifie que les bugs seront corrigés rapidement.
+              </p>
               </div>
               <br />
               <div class="total">

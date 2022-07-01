@@ -114,7 +114,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span.php, CSS, Javascript, Java, C++, Wordpress...</span>
+              <span.php, programmation en C, C est un langage, programmation système et la robotique. bases de programmation </span>
             </div>
           </div>
         </div>
@@ -138,19 +138,13 @@ https://templatemo.com/tm-571-hexashop
               <span class="price">€ 500.00</span>
 
               <p></p>
-              Vous aimeriez apprendre à programmer, mais vous ne savez pas par où commencer ? Ce cours de programmation en C pour débutants est fait pour vous !
-
-              Le C est un langage incontournable qui en a inspiré beaucoup d'autres.
-              
-              Inventé dans les années 70, il est toujours d'actualité dans la programmation système et la robotique. Il est plutôt complexe, mais si vous le maîtrisez vous aurez des bases de programmation très solides !
-              </p>
+              Il est le langage de programmation de base pour la robotique, les systèmes et le calcul scientifique. C est un langage de programmation fortement imprégné dans la culture informatique. C est un langage de programmation généraliste, qui peut être utilisé pour créer tous les types d applications. C peut être utilisé pour créer des programmes qui s exécutent depuis un navigateur web, des programmes qui se lancent en arrière-plan, et même des programmes qui s exécutent dans une console de commande.</p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                  Dans ce cours, vous commencerez par découvrir le fonctionnement de la mémoire, des variables, des conditions et des boucles. Et vous apprendrez à manipuler les structures de données les plus courantes pour organiser les informations en mémoire : listes, piles, files, tables de hachage...
-
-Rejoignez-moi dans ce cours pour découvrir la programmation en C !
-                </p>
+                la programmation C a été inventé en 1969 par Dennis Ritchie au département d'informatique de l'université de Bell Labs. Le langage C est un langage assez simple et fonctionne sur n'importe quel type de plate-forme. Il est très utile pour développer des applications pour les systèmes et la robotique. Il est utilisé dans le monde entier.
+                C est un langage de programmation. C est un langage simple qui a été conçu par Bjarne Stroustrup en 1972. Le langage de programmation C est utilisé dans de nombreux systèmes d'exploitation et d'applications. Le langage de programmation C comprend beaucoup de fonctions qui sont très utiles dans la programmation en général comme les fonctions d'entrée-sortie, fonction mathématique, fonction de base.  
+              </p>
               </div>
               <br />
               <div class="total">
