@@ -137,24 +137,16 @@ https://templatemo.com/tm-571-hexashop
               <h1>Vue js</h1>
               <span class="price">€ 200.00</span>
 
-              <p></p>
-              Les frameworks sont incontournables dans le développement frontend. La maîtrise de l'un d'eux représente donc un véritable atout pour votre carrière en développement frontend.
+              <p>Vue.js est un framework Javascript qui permet aux développeurs d'écrire du code de manière MVC, d'obtenir des données depuis une API JSON et de les afficher avec un minimum de code. Il est écrit en puroscript et respecte le modèle universel du langage. Vue.js offre des avantages clés qui aident à faire se fait le développement Web plus facile, notamment lorsqu'il s'agit de la création rapide de composants dans le projet.
 
-              Il existe de nombreux frameworks. Vue.js est l'un des plus populaires pour construire des applications web progressives.
-              À la fin de ce cours, vous serez capable de :
 
-construire une application Vue.js ;
-
-augmenter les capacités d'une application avec Vue CLI ;
-
-créer des composants réutilisables dans Vue.js ;
-
-gérer les données d'une application.
               </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                  Nous commencerons ce cours interactif en utilisant Vue pour créer une application web sans outil de build complexe. Nous utiliserons ensuite les outils en ligne de commande (CLI) pour vous permettre de coder votre application comme si vous étiez en entreprise. Puis, nous architecturerons notre application en composants modulaires pour qu'elle soit facile à maintenir. Enfin, vous apprendrez à gérer vos données de manière réactive avec Vuex et sa gestion du state de manière globale.
+                Après avoir suivi ce cours, vous serez en mesure d'utiliser Vue.js pour créer des sites web utilisant la «méthode vue». Vous vous familiariserez avec les principaux composants de Vue.js, y compris la composante View, la composante par défaut View et la composante Instance. Vous apprendrez à utiliser les fonctionnalités de base de Vue.js, comme le data et le life cycle hook. Enfin, vous apprendrez à déclarer des composants externes, à utiliser des composants
+
+
                 </p>
               </div>
               <br />

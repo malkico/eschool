@@ -138,27 +138,12 @@ https://templatemo.com/tm-571-hexashop
               <h1>Angular js</h1>
               <span class="price">€ 400.00</span>
 
-              <p></p>
-              Vous commencez à maîtriser le.php, le CSS, et le JavaScript, et vous voulez ajouter des cordes à votre arc ? Vous souhaitez approfondir vos connaissances et gagner en compétences pour le développement front-end ?
+              <p>AngularJS est un framework de développement utilisé pour créer des applications web. Il est principalement conçu pour simplifier la création de pages web dynamiques. Toutefois, il est souvent utilisé dans des applications mobiles et de tablettes. Il a été conçu par Google et a été publié pour la première fois en 2009, sous forme d'un projet open source.
 
-              Angular est un framework de développement d’applications web, utilisé par des milliers d’entreprises, qui vous permettra de créer des applications dynamiques complètes.
-              </p>
+            </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
-                <p>
-                  Ce cours sera votre premier pas dans l’apprentissage de ce framework complet et innovant :
-
-                  vous découvrirez les briques de base d’une application Angular que sont les components
-                  
-                  vous passerez des données aux components avec la liaison de données
-                  
-                  vous réagissez aux événements du template avec la liaison par événement
-                  
-                  vous apporterez de la structure et de la forme à vos components avec les directives et les pipes
-                  
-                  vous implémenterez des services et du routing pour améliorer la structure de votre application
-                  
-                  Tout au long de ce cours, vous créerez une application de A à Z afin de pratiquer les différentes techniques et de consolider vos nouvelles connaissances.
+                <p>Il existe plusieurs raisons pour lesquelles AngularJS est un bon choix. Pour commencer, il est facile à utiliser et permet de créer des applications web interactives. De plus, il est compatible avec la plupart des navigateurs et les appareils mobiles. Enfin, AngularJS est très rapide et dispose d'une grande communauté.
                 </p>
               </div>
               <br />

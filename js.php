@@ -137,25 +137,32 @@ https://templatemo.com/tm-571-hexashop
               <h1>JavaScript</h1>
               <span class="price">€ 300.00</span>
 
-              <p></p>
-              Pour créer des programmes d'ordinateur ou bâtir l'application de vos rêves, vous devez savoir comment coder dans un langage de programmation. Les applications s'appuient sur des données et une logique pour accomplir leur magie, et cela exige qu'un programmeur – vous – indique à l'ordinateur ce qu'il faut faire et comment. Mais comment écrire des applications, au fait ? Par où commencer ?
+              <p>
+                
+Le langage de programmation javascript est déjà très populaire et très utilisé aujourd'hui. C'est pourquoi il a été mis à jour en 2015, en intégrant des fonctions qui permettent aux utilisateurs d'écrire le code plus facilement. Il est maintenant appelé javascript ES6. Avec le javascript ES6, les développeurs peuvent développer des applications web plus rapidement et avec moins de codes.
 
-              Ce cours est conçu pour vous enseigner les bases du langage de programmation JavaScript et pour vous apporter beaucoup de pratique au passage !
+
               </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                  Nous nous intéresserons à :
+                  Objectifs pédagogiques. <br/>
 
-comment structurer et regrouper des informations dans votre application avec des types de données ;
+À la fin de ce cours, vous serez capable de :
 
-comment utiliser la logique de programmation pour que votre application fasse ce que vous en attendez ;
+<ul>
+<li>  1. Comprendre pourquoi on est amené à utiliser javascript  </li>
 
-comment gérer les erreurs et permettre à votre application de communiquer ;
+<li>2. Où et comment utiliser javascript  </li>
 
-comment écrire un code lisible, de façon à pouvoir plus facilement modifier, maintenir et partager vos applis.
+<li>3. Javascript en ligne de commande  </li>
 
-Vous appliquerez toutes ces connaissances pour bâtir des fonctionnalités réelles d'une appli JavaScript sur l'ensemble de ce cours. Prêt à découvrir toutes les choses passionnantes que vous pouvez faire avec du code JavaScript ? 
+4<li>. Javascript dans un navigateur Web  </li>
+
+<li>5. Les styles de programmation  </li>
+
+<li>6. Entrer dans le monde de javascript  </li>
+</ul>
                 </p>
               </div>
               <br />
