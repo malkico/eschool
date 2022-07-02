@@ -17,13 +17,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
     <!-- End Google Tag Manager -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
+    <meta name="description" content="Avec la technologie Docker, vous pouvez traiter les conteneurs comme des machines virtuelles très légères
+                et modulaires" />
     <meta name="author" content="" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
         rel="stylesheet" />
     <link rel="stylesheet" href="assets/css/custom-style.css" />
 
-    <title>Hexashop - Product Listing Page</title>
+    <title>Découvrir la virtualisation avec Docker</title>
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
@@ -149,24 +150,7 @@ https://templatemo.com/tm-571-hexashop
             étape intermédiaire ce qui permet de bien meilleur performances. L'approche est ici similaire à celle
             qui
             est utilisé dans Svelte.</p>
-            <h4>Installation de Caddy</h4>
-            <p>Caddy peut être utilisé sous forme de simple éxécutable (pratique pour une configuration docker ou dans
-                le cas d'un serveur de développement) mais aussi sous forme de service. Dans le cadre d'Ubuntu
-                l'installation de Caddy se fait de manière traditionnelle en l'ajoutant à la liste des dépôt.
-
-                Une fois installée le service va démarrer automatiquement et répondra sur le port 80 (HTTP) avec la page
-                d'accueil par défaut. Caddy peut ensuite être configuré à l'aide du fichier Caddyfile présent dans le
-                dossier /etc/caddy/
-
-                Config</p>
-            <h4>Les points négatifsn</h4>
-            <p>Evidemment tout n'est pas parfait et j'ai rencontré quelques problème (peut être par manque de
-                connaissance donc n'hésitez pas à me corriger).
-
-                Le format des logs en JSON est un peu moins lisible que le format d'nginx (peut être une question
-                d'habitude), bien que plus facilement parsable par des outils tiers. Mais un module existe pour
-                contrebalancer ce problème.
-                Il n'y a pas de système anti burst préintégrés (un module tiers existe mais je ne l'ai pas testé).</p>
+            
         </div>
 
     </section>
@@ -246,7 +230,7 @@ https://templatemo.com/tm-571-hexashop
 
     <!-- Plugins -->
     <script src="assets/js/owl-carousel.js"></script>
-    <script src="assets/js/accordions.js"></script>
+    <script src="assets/js/accordions.min.js"></script>
     <script src="assets/js/datepicker.js"></script>
     <script src="assets/js/scrollreveal.min.js"></script>
     <script src="assets/js/waypoints.min.js"></script>

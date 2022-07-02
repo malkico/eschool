@@ -9,14 +9,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="Csharp, qualité logicielle, application, .Net, plugin, développement informatique." />
+    <meta name="description" content=" Salesforce, Apprendre, evoluer echanger, dynamique economique, trailhead, transformer" />
     <meta name="author" content="Eschool" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
-    />
+    /> 
 
-    <title>Backend - Application avec CSharp et .Net</title>
+    <title>CRM - Salesforce pour gérer votre entreprise</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -51,7 +51,13 @@ https://templatemo.com/tm-571-hexashop
 
   <body>
     <!-- ***** Preloader Start ***** -->
-   
+    <div id="preloader">
+      <div class="jumper">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
     <!-- ***** Preloader End ***** -->
 
     <!-- ***** Header Area Start ***** -->
@@ -108,7 +114,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span.php, Csharp, qualité logicielle, application, .Net, plugin, développement informatique.</span>
+              <span.php,  Salesforce, Apprendre, evoluer echanger, dynamique economique, trailhead, transformer</span>
             </div>
           </div>
         </div>
@@ -122,33 +128,30 @@ https://templatemo.com/tm-571-hexashop
         <div class="row">
           <div class="col-lg-8">
             <div class="left-images">
-              <img src="assets/images/cSharp.png" alt="" />
-              <img src="assets/images/cSharp2.jfif" alt="" />
+              <img src="assets/images/salesforce.png" alt="" />
+              <img src="assets/images/salesforce1.png" alt="" />
             </div>
           </div>
           <div class="col-lg-4">
             <div class="right-content">
-              <h1>CSharp</H1>
-              <span class="price">€ 480.00</span>
+              <h1>Apprenez à utiliser Salesforce de manière ludique. </h1>
+              <span class="price">€ 200.00</span>
 
               <p></p>
-              Les applications « traditionnelles » sont des programmes informatiques qui exécutent des tâches standardisées et automatisées de façon répétitrice. Les progiciels modernes, tels que Ruby on Rails et WordPress, sont des logiciels d'application Web qui fonctionnent comme un service Web, mais qui sont écrits en langage de programmation C#. Avec le développement informatique, les entreprises peuvent utiliser les applications d'affaires et les logiciels d'entreprise.
-              </p>
+              Salesforce est une entreprise qui propose des outils informatiques pour les gestionnaires d'entreprises. Cette entreprise est connue pour son logiciel de CRM appelé Salesforce. Ce dernier permet de faire des échanges entre les clients et les fournisseurs, ce qui facilite la vente et le marketing. Salesforce est également connu pour son programme appelé Trailhead. Ce dernier a pour but de transformer les employés en développeurs informatiques.
+              Salesforce est une entreprise américaine créée en 1999. Elle se spécialise dans la fourniture de solutions de gestion de la relation client (CRM). Elle s'est développée en présentant ses solutions via des plateformes d'apprentissage, nommées Salesforce Trailhead et Salesforce for Startups.              </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                C# est une plate-forme de développement logiciel permettant l'exécution des applications sur les systèmes d'exploitation Windows, MacOS, iOS et Android. La plateforme C# est un langage orienté-objet qui utilise des instructions de programmation en C++, Java et C#. Cette plate-forme de développement permet la création de programmes en code source ouvert ainsi que de programme d'interactivité.
-                Ce langage de programme a été développé par Bjarne Stroustrup en 1979. La version la plus récente du langage est la C++ 11. Il est utilisé dans le monde des jeux vidéo pour le rendu 3D, les moteurs de jeu et la gestion des performances. Il s'agit d'un langage de programmation orienté objet et multi-paradigmes. Il est aussi un langage de programmation orienté service et un langage de programmation orienté type.
-              </p>
+                Salesforce est une entreprise qui propose des outils informatiques pour les gestionnaires d'entreprises. Cette entreprise est connue pour son logiciel de CRM appelé Salesforce. Ce dernier permet de faire des échanges entre les clients et les fournisseurs, ce qui facilite la vente et le marketing. Salesforce est également connu pour son programme appelé Trailhead. Ce dernier a pour but de transformer les employés en développeurs informatiques.                </p>
               </div>
               <br />
               <div class="total">
-                <h4>€ 280.00</h4>
+                <h4>€ 200.00</h4>
                 <div class="main-border-button">
                   <a href="#">Ajoutez à votre panier</a>
                 </div>
               </div>
-              
             </div>
           </div>
         </div>
@@ -234,7 +237,7 @@ https://templatemo.com/tm-571-hexashop
 
     <!-- Plugins -->
     <script src="assets/js/owl-carousel.js"></script>
-    <script src="assets/js/accordions.min.js"></script>
+    <script src="assets/js/accordions.js"></script>
     <script src="assets/js/datepicker.js"></script>
     <script src="assets/js/scrollreveal.min.js"></script>
     <script src="assets/js/waypoints.min.js"></script>

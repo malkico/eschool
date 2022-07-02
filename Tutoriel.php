@@ -136,9 +136,9 @@ https://templatemo.com/tm-571-hexashop
               </div>
               <div class="down-content">
                 <h4>Decouverte de Solidjs</h4>
-                <span>Dans ce tutoriel je vous propse de découvrie SolidJS,une
-                  librairie JavaScript qui permet de créer des interfaces
-                  utilisateur....</span>
+                <span>Solid.js: comment utiliser ce merveilleux module de programmation
+solidjs, la révolution du développement avec un éditeur de code intégré au navigateur
+solidJS, comment ça se passe en vrai?</span>
               </div>
             </div>
           </div>
@@ -152,8 +152,7 @@ https://templatemo.com/tm-571-hexashop
               </div>
               <div class="down-content">
                 <h4>Découverte de Caddy Server</h4>
-                <span>Dans ce tutoriel nous allons découvrir Caddy qui est un serveur web open source écrit en go
-                  proposant la mise en place de certificat SSL automatiquement.</span>
+                <span>Dans ce tutoriel nous allons découvrir Les serveurs de caddy utilisés pour le développement web. </span>
               </div>
             </div>
           </div>
@@ -166,10 +165,8 @@ https://templatemo.com/tm-571-hexashop
               <img class="icon-tuto" src="assets/images/js-icon.png" alt="" />
             </div>
             <div class="down-content">
-              <h4>Indicateur de menu animé</h4>
-              <span>Nous allons voir aujourd'hui comment créer un effet d'indicateur animé en utilisant du CSS & du
-                JavaScript. L'objectif est de créer une petite barre qui se place sur l'onglet sélectionné avec un effet
-                de déplacement..</span>
+              <h4>Devops</h4>
+              <span>Pour apprendre DevOps, il existe de nombreuses ressources disponibles à l'Internet. Cependant, le mieux est d'en apprendre en pratique et sur le terrain...</span>
             </div>
           </div>
         </div>
@@ -182,10 +179,8 @@ https://templatemo.com/tm-571-hexashop
               <img class="icon-tuto" src="assets/images/php-icon.png" alt="" />
             </div>
             <div class="down-content">
-              <h4>Decouverte de Solidjs</h4>
-              <span>Dans ce tutoriel je vous propse de découvrie SolidJS,une
-                librairie JavaScript qui permet de créer des interfaces
-                utilisateur....</span>
+            <h4>Decouverte de Iptables</h4>
+                <span>C'est Iptables (parfois appelé IPtables ou iptables) est un logiciel libre et réseau qui vous permet de configurer les réglages d'accès ...</span>
             </div>
           </div>
         </div>
@@ -214,10 +209,8 @@ https://templatemo.com/tm-571-hexashop
                 <img class="icon-tuto" src="assets/images/php-icon.png" alt="" />
               </div>
               <div class="down-content">
-                <h4>Decouverte de Solidjs</h4>
-                <span>Dans ce tutoriel je vous propse de découvrie SolidJS,une
-                  librairie JavaScript qui permet de créer des interfaces
-                  utilisateur....</span>
+                <h4>Decouverte MySql</h4>
+                <span>dans ce tutoriel je vous propose de decouvrir MySQL un système de gestion de base de données relationnelle..</span>
               </div>
             </div>
           </div>
@@ -237,18 +230,7 @@ https://templatemo.com/tm-571-hexashop
             </div>
           </div>
         </a>
-        <div class="col-lg-4 grid-tuto">
-          <div class="item">
-            <div class="thumb">
-              <div class="hover-content"></div>
-              <img class="icon-tuto" src="assets/images/js-icon.png" alt="" />
-            </div>
-            <div class="down-content">
-              <h4>Decouverte de Solidjs</h4>
-              <span>Dans ce tutoriel je vous propse de découvrie SolidJS,une
-                librairie JavaScript qui permet de créer des interfaces
-                utilisateur....</span>
-            </div>
+    
           </div>
         </div>
       </div>
@@ -329,7 +311,7 @@ https://templatemo.com/tm-571-hexashop
 
   <!-- Plugins -->
   <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/accordions.js"></script>
+  <script src="assets/js/accordions.min.js"></script>
   <script src="assets/js/datepicker.js"></script>
   <script src="assets/js/scrollreveal.min.js"></script>
   <script src="assets/js/waypoints.min.js"></script>
