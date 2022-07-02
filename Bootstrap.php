@@ -10,13 +10,13 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
     <meta name="description" content="Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option" />
-    <meta name="author" content="Formation Bootstrap, la derniére version la plus chaude V5" />
+    <meta name="author" content="Eschool" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
     />
 
-    <title>Bootstrap</title>
+    <title>Formation Bootstrap, la derniére version la plus chaude V5</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -131,21 +131,14 @@ https://templatemo.com/tm-571-hexashop
               <h1>Bootstrap</h1>
               <span class="price">€ 200.00</span>
 
-              <p></p>
-              Vous voulez créer des sites web riches en fonctionnalités, en développant des prototypes avec la capacité de personnaliser entièrement la conception et les fonctionnalités du produit fini ?
+              <p>Vue.js est un framework Javascript qui permet aux développeurs d'écrire du code de manière MVC, d'obtenir des données depuis une API JSON et de les afficher avec un minimum de code. Il est écrit en puroscript et respecte le modèle universel du langage. Vue.js offre des avantages clés qui aident à faire se fait le développement Web plus facile, notamment lorsqu'il s'agit de la création rapide de composants dans le projet.
 
-              Dans ce cours, vous créerez des pages web à l'aide de Bootstrap 5 et sa bibliothèque de composants. Vous rendrez ces pages responsives à l'aide de la grille flexible de Bootstrap, et vous les façonnerez grâce à sa gamme complète d'utilitaires mise à disposition.
-              </p>
+</p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
-                <p>
-                  Vous apprendrez également à personnaliser la conception et les fonctionnalités afin de créer un thème customisable à votre image.
+                <p>Après avoir suivi ce cours de Bootstrap, vous serez capable de créer des sites web responsifs, des applications mobiles et sur mesure qui répondent aux besoins de vos clients. Les compétences que vous acquerrez lors de cette formation sont utiles pour des projets professionnels et personnels. Dans cette formation le contenu est illustré par des exemples concrets.
 
-À la fin de ce cours, vous aurez créé l’intégralité du front-end d'un site web portfolio en ligne.
 
-Commencez dès maintenant à augmenter votre productivité en tant que développeur front-end.
-
- Rejoignez-moi dans le premier chapitre pour découvrir Bootstrap !
                 </p>
               </div>
               <br />
