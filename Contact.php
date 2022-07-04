@@ -81,7 +81,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
     </header>
     <div class="contact-clean contact-form">
       <form method="post">
-        <h2 class="text-center">Contact us</h2>
+        <h1 class="text-center">Contactez-nous</h1>
         <div class="form-group">
           <input
             class="form-control"

@@ -123,7 +123,6 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-8">
             <div class="left-images">
               <img src="assets/images/htmlcss.png" alt="" />
-              <img src="assets/images.phpcss2.jfif" alt="" />
             </div>
           </div>
           <div class="col-lg-4">
