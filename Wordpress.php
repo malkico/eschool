@@ -9,14 +9,14 @@ require $_SERVER['DOCUMENT_ROOT'].'/seolyzer-e7bdf29c38c13de794e8d1df64aa9105.ph
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="description" content=" WordPress, simple outil, créer des blogs, vitrines, e-commerce, le plus utilisé sur la planète" />
+    <meta name="author" content="Eschool" />
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
       rel="stylesheet"
     /> 
 
-    <title>Hexashop - Product Detail Page</title>
+    <title>CRM - Wordpress pour créer votre site web e-commerce</title>
 
     <!-- Additional CSS Files -->
     <link
@@ -108,7 +108,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span.php, CSS, Javascript, Java, C++, Wordpress...</span>
+              <span.php,  WordPress, simple outil, créer des blogs, vitrines, e-commerce, le plus utilisé sur la planète</span>
             </div>
           </div>
         </div>
@@ -128,20 +128,16 @@ https://templatemo.com/tm-571-hexashop
           </div>
           <div class="col-lg-4">
             <div class="right-content">
-              <h1>Wordpress</h1>
+              <h1>Apprenez à utiliser Wordpress de manière ludique.</h1>
               <span class="price">€ 200.00</span>
 
               <p></p>
-              Vous souhaitez créer des sites web professionnels ? Vous n’êtes pas développeur, mais souhaitez créer des sites robustes, évolutifs et bien référencés ?
-
-              WordPress est la solution ! À l'origine simple outil pour créer des blogs, c’est maintenant la solution n° 1 pour créer tous types de sites : vitrines, e-commerce, collaboratifs, magazines… C'est un outil tellement incontournable que plus de 40 % de tous les sites web du monde reposent maintenant sur WordPress. Il s'agit du moteur de sites web le plus utilisé sur la planète, tout simplement.
+              WordPress est l'un des CMS les plus utilisés dans le monde. Il est conçu pour être facile à utiliser et offre un grand nombre d'options de personnalisation. Il est disponible en plusieurs langues, il a de multiples fonctionnalités et peut être modifié facilement. WordPress est une plateforme de blogue, de base de données et de sites web qui peut être utilisée pour créer des sites Internet ou des blogs, des vitrines personnelles ou commerciales, des sites e-commerce.
               </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                  Dans ce cours, vous découvrirez ce qu’est exactement WordPress et comment il fonctionne. Surtout, nous construirons ensemble un site moderne pour une agence de webdesign que vous pouvez visiter ici : http://bananadesign.themecloud.website.
-
-Après ce cours, vous saurez créer efficacement et rapidement des sites WordPress de qualité, le tout sans écrire une ligne de code. Promis, juré, craché ! Inscrivez-vous !
+                WordPress est un des meilleurs outils de création d'un blog, ainsi que des sites internet professionnels. C'est un logiciel très simple et facile à utiliser pour les débutants. Il y a également une communauté très active qui peut vous aider en cas de problème. WordPress est tellement populaire que vous pouvez trouver des modèles gratuits très bien réalisés sur Internet.
                 </p>
               </div>
               <br />

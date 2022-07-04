@@ -131,20 +131,14 @@ https://templatemo.com/tm-571-hexashop
               <h1>React js</h1>
               <span class="price">€ 500.00</span>
 
-              <p></p>
-              Vous avez sûrement déjà entendu parler de React.
+              <p> React est un framework JavaScript utilisé pour créer des applications web et mobiles. Il a été publié il y a de cela quelques mois par Facebook, et actuellement en pleine évolution. Cependant, il ne ressemble pas aux autres frameworks qui mettent l'accent sur la rapidité dans leur conception. Au lieu de cela, il met l'accent sur la qualité des applications, avec une attention particulière portée aux interactions homme-machine et à la qualité du code.
 
-              Utilisée par les entreprises géantes de la Tech comme Facebook, Twitter ou Netflix, il s'agit de l'une des bibliothèques JavaScript les plus populaires pour construire des interfaces web. Son approche par composants réutilisables en fait un outil particulièrement modulaire pour développer vos applications.
-              
-              Dans ce cours, vous construirez pas à pas votre première application React, en l'enrichissant de nouvelles fonctionnalités au fil des notions maîtrisées.
-              </p>
+ </p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
-                <p>
-                  Nous commencerons par nous initier au fonctionnement de React et à la syntaxe JSX avec un outil simple en ligne. Puis nous créerons les bases de notre application complète avec Create React App, à laquelle nous ajouterons du style, et du contenu ! La dernière partie sera l'occasion d'aborder le state et les effets de bord, afin de rendre l’application interactive pour l’utilisateur. 
+                <p>À la fin de ce cours de React.js vous serez capable de développer des applications web et mobiles performantes et fiables. Vous serez aussi capable de créer une interface utilisateur plus facile à utiliser. Vous apprendrez aussi à manipuler des données pour gérer les données dans votre application, ainsi que l'utilisation des différents composants React.js afin d'améliorer la performance de vos applications.
 
-Alors si vous cherchez à maîtriser les bases pour créer vos propres applications React, n'attendez plus, et rejoignez-moi dans ce cours !
-                </p>
+</p>
               </div>
               <br />
               <div class="total">

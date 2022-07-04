@@ -145,11 +145,9 @@ https://templatemo.com/tm-571-hexashop
               <div class="total">
                 <h4>€ 300.00</h4>
                 <div class="main-border-button">
-                  <a href="#">Ajoutez à votre panier</a>
+                  <a href="#">Ajoutez à votre panier </a>
                 </div>
               </div>
-              <div><h4 href="https://www.dawan.fr/formations/php">Vous trouverez aussi notre partenariat pour découvrir d'autres</h4> </div>
-
               
             </div>
           </div>

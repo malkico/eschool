@@ -165,7 +165,7 @@ https://templatemo.com/tm-571-hexashop
               </div>
               <div class="down-content">
                 <h4>
-                  <a href="Vuejs.php"
+                  <a href="sap.php"
                     >Créez votre application logistique avec SAP</a
                   >
                 </h4>
@@ -185,7 +185,7 @@ https://templatemo.com/tm-571-hexashop
               </div>
               <div class="down-content">
                 <h4>
-                  <a href="Vuejs.php"
+                  <a href="salesforce.php"
                     >Apprenez à créer votre aplication avec Sales force</a
                   >
                 </h4>
@@ -205,7 +205,7 @@ https://templatemo.com/tm-571-hexashop
               </div>
               <div class="down-content">
                 <h4>
-                  <a href="Vuejs.php">Créez votre CRM avec Dynamics 365</a>
+                  <a href="dynamics.php">Créez votre CRM avec Dynamics 365</a>
                 </h4>
                 <span>€ 400.00</span>
               </div>
@@ -260,7 +260,7 @@ https://templatemo.com/tm-571-hexashop
                 />
               </div>
               <div class="down-content">
-                <h4>Créez votre site avec e-commerce Wix</h4>
+                <h4><a href="wix.php">Créez votre site avec e-commerce Wix</a></h4>
                 <span>€ 500.00</span>
               </div>
             </div>

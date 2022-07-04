@@ -130,33 +130,26 @@ https://templatemo.com/tm-571-hexashop
               <h1> HTML/CSS</h1>
               <span class="price">€ 280.00</span>
 
-              <p>
-              ous souhaitez créer vos propres sites web ? Vous êtes au bon endroit ! Dans ce cours, vous apprendrez comment utiliser.php5 et CSS3, les deux langages de programmation à la base de tous les sites web.
+              <p>HTML (HyperText Markup Language) est un langage de balisage qui permet d'ajouter du texte, des images, des liens et des dessins à un document. Il est utilisé pour créer des pages Web. Le langage de balisage CSS (Cascading Style Sheets) permet de définir les styles de la page HTML et de donner les instructions relatives à la mise en page.
 
-              Vous pensez peut-être que vous n'êtes pas fait pour apprendre un langage informatique, mais ne vous inquiétez pas :.php et CSS sont des langages simples, que nous allons découvrir pas à pas, au cours de nombreux exercices. Vous serez bientôt capable d'ajouter du texte à votre site, de construire un menu de navigation, d'insérer des images... et bien plus encore !
-              </p>
+</p>
               <div class="quote">
                 <i class="fa fa-quote-left"></i>
                 <p>
-                  Objectifs pédagogiques
+                  Objectifs pédagogiques. <br/>
 
 À la fin de ce cours, vous serez capable de :
 
-<li>utiliser du code.php ;</li>
+<li> Comprendre HTML et CSS </li>
 
-<li>structurer une page web en.php ;
-</li>
-<li>utiliser du code CSS ;</li>
+<li> Savoir concevoir un site web </li>
 
-<li>mettre en forme une page web en CSS ;</li>
+<li> Apprendre les bases de HTML et CSS </li>
 
-<li>organiser les éléments d’une page web grâce au CSS ;</li>
+<li> Les bons conseils pour apprendre HTML et CSS </li>
 
-<li>modifier l'agencement d'une page.php avec CSS ;</li>
-
-<li>intégrer des formules dans une page web ;</li>
-
-<li>adapter une page pour les petites résolutions en CSS.</li>
+<li> Les bonnes ressources en ligne </li>
+</ul>
                 </p>
               </div>
               <br />
