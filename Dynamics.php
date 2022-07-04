@@ -106,7 +106,7 @@ https://templatemo.com/tm-571-hexashop
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>Découvrez nos formations</h2>
-              <span.php,  Dynamics 365 - Microsoft, marekting, ventes, gérer activiteit, formation</span>
+              <span>  Dynamics 365 - Microsoft, marekting, ventes, gérer activiteit, formation</span>
             </div>
           </div>
         </div>
