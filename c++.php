@@ -149,6 +149,11 @@ https://templatemo.com/tm-571-hexashop
             </div>
           </div>
         </div>
+        <div>   
+          <h4>
+                  <a href="c.php">Les participants se sont également intéressés par langage C</a>
+          </h4>
+          </div>
       </div>
     </section>
     <!-- ***** Product Area Ends ***** -->

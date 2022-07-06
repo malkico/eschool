@@ -150,6 +150,11 @@ https://templatemo.com/tm-571-hexashop
             </div>
           </div>
         </div>
+        <div>   
+          <h4>
+                  <a href="sap.php">Les participants se sont également intéressés par SAP</a>
+          </h4>
+          </div>
       </div>
     </section>
     <!-- ***** Product Area Ends ***** -->

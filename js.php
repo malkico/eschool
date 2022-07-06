@@ -169,6 +169,11 @@ Le langage de programmation javascript est déjà très populaire et très utili
             </div>
           </div>
         </div>
+        <div>   
+          <h4>
+                  <a href="Vuejs.php">Les participants se sont également intéressés par Vue JS</a>
+          </h4>
+          </div>
       </div>
     </section>
     <!-- ***** Product Area Ends ***** -->

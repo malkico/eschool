@@ -153,6 +153,11 @@ https://templatemo.com/tm-571-hexashop
             </div>
           </div>
         </div>
+        <div>   
+          <h4>
+                  <a href="reactjs.php">Les participants se sont également intéressés par React Js</a>
+          </h4>
+          </div>
       </div>
     </section>
     <!-- ***** Product Area Ends ***** -->

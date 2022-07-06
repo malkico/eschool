@@ -152,6 +152,11 @@ Développé en PHP, Drupal s’appuie sur une conception modulaire. 7 modules co
             </div>
           </div>
         </div>
+        <div>   
+          <h4>
+                  <a href="wordpress.php">Les participants se sont également intéressés par Wordpress</a>
+          </h4>
+          </div>
       </div>
     </section>
     <!-- ***** Product Area Ends ***** -->
